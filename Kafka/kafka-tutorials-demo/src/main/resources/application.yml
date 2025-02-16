@@ -1,0 +1,19 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: kafka-tutorials-demo
+  kafka:
+    bootstrap-servers: localhost:9092 # pkc-56d1g.eastus.azure.confluent.cloud:9092
+#    properties:
+#      sasl:
+#        mechanism: PLAIN
+#        jaas:
+#          config: org.apache.kafka.common.security.plain.PlainLoginModule required username='VE7O2CUMWMCJFLUY' password='vWYUTlgNywEFPbvLz4g1XMkuLOPKAMc2svYVRjKN5n27MsgV549D5xouhJqjjB+6';
+#      security:
+#        protocol: SASL_SSL
+#      session:
+#        timeout:
+#          ms: 45000
+#client:
+#  id: ccloud-springboot-client-cf8f1aef-7540-43f3-ba2e-534704f57622
