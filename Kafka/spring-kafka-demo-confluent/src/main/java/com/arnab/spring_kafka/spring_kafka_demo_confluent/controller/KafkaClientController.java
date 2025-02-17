@@ -20,5 +20,4 @@ public class KafkaClientController {
     public void publish(@RequestBody String message) {
         service.publish(message);
     }
-
 }

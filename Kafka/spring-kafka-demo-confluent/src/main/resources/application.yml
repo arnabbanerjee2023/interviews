@@ -7,7 +7,7 @@ spring:
       sasl:
         mechanism: PLAIN
         jaas:
-          config: org.apache.kafka.common.security.plain.PlainLoginModule required username='WKUZKZ5O3SZGOU2B' password='5I+5/QCUgszbL64kz6gdArbVZOn/M52etZO5SjN21l/l2lHjyEvNz1wbZAyEt+Vn';
+          config: org.apache.kafka.common.security.plain.PlainLoginModule required username='OHB7VDEFXW6XZTL7' password='7dw0II8b0Z3mUE1QhHyK3BMTrRF3j9ZTsy3Vjc9ZaS69HC+zlEkRyQs59LrDu+qj';
       security:
         protocol: SASL_SSL
     producer:

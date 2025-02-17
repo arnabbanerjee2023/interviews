@@ -11,5 +11,4 @@ public class KafkaClientListener {
     public void listener(String data) {
         System.out.println("Listened Data: " + data);
     }
-
 }
