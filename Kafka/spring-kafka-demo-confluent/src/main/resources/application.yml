@@ -13,3 +13,10 @@ spring:
     producer:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:mysql://localhost:3306/arnab_spring_kafka?serverTimezone=UTC&useSSL=false&autoReconnect=true
+    username: root
+    password: arnab
