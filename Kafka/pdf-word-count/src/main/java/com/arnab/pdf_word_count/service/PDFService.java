@@ -50,7 +50,7 @@ public class PDFService {
             wordCountModelRepo.save(wordCountModel);
 
             this.publishToKafka(wordCountModel);
-            return "SUCCESS";
+            return "SUCCESS, Size of list: " + wordCountModel.getWordCount().size();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
