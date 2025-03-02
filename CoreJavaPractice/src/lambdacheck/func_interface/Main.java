@@ -15,22 +15,26 @@
  * OF THE USE OF THIS PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package multithreading;
+package lambdacheck.func_interface;
 
-public class World extends Thread {
-    @Override
-    public void run() {
-        for (int i = 1; i <= 1000; i++) {
-            // Here it is printing Hello about 10 million times from the Thread-0 thread.
-            //System.out.println("World.");
-            // Here it is printing the current thread's name.
-            System.out.println(Thread.currentThread().getName());
-            try {
-                // We are putting the thread to sleep for 100ms. So that the main thread can continue the execution.
-                Thread.sleep(10);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
-        }
+class Transformer {
+    public static String transform(String name, Student student) {
+        return student.getBio(name);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Student computerScienceStudent = name -> name + " is a Computer Science Student.";
+        System.out.println(computerScienceStudent.getBio("Arnab"));
+
+        Student lawStudent = name -> name + " is a Law Student.";
+        System.out.println(lawStudent.getBio("Sohini"));
+
+        System.out.println(Transformer.transform("Manisha",
+                student -> student + " is a Computer Science Student."));
+
+        System.out.println(Transformer.transform("Ashok",
+                student -> student + " is a Law Student."));
     }
 }

@@ -15,22 +15,34 @@
  * OF THE USE OF THIS PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package multithreading;
+package multithreading.executors_framework.executors.scheduled_executors;
 
-public class World extends Thread {
-    @Override
-    public void run() {
-        for (int i = 1; i <= 1000; i++) {
-            // Here it is printing Hello about 10 million times from the Thread-0 thread.
-            //System.out.println("World.");
-            // Here it is printing the current thread's name.
-            System.out.println(Thread.currentThread().getName());
-            try {
-                // We are putting the thread to sleep for 100ms. So that the main thread can continue the execution.
-                Thread.sleep(10);
-            } catch (InterruptedException e) {
-                throw new RuntimeException(e);
-            }
+import java.util.concurrent.Executors;
+import java.util.concurrent.ScheduledExecutorService;
+import java.util.concurrent.TimeUnit;
+
+public class Main {
+    public static void main(String[] args) {
+        long startTime = System.currentTimeMillis();
+
+        ScheduledExecutorService scheduler = Executors.newScheduledThreadPool(1);
+
+        scheduler.schedule(() -> System.out.println("Name after 5 seconds Arnab Banerjee"),
+                5, TimeUnit.SECONDS);
+
+        scheduler.scheduleAtFixedRate(() -> System.out.println("Name after 5 seconds Arnab Banerjee, " +
+                        "repeating every 1 second"),
+                5, 1, TimeUnit.SECONDS);
+
+        try {
+            Thread.sleep(10000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
         }
+
+        scheduler.shutdown();
+
+        long endTime = System.currentTimeMillis();
+        System.out.println("Time taken: " + (endTime - startTime));
     }
 }
