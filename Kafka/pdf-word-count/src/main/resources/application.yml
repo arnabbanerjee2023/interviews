@@ -1,0 +1,31 @@
+spring:
+  application:
+    name: pdf-word-count
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: arnab_db
+      #username: abanerjee23
+      #password:
+  kafka:
+    bootstrap-servers: pkc-56d1g.eastus.azure.confluent.cloud:9092
+    properties:
+      sasl:
+        mechanism: PLAIN
+        jaas:
+          config: org.apache.kafka.common.security.plain.PlainLoginModule required username='EQN7IOGCUPA56P6M' password='U+WmfM28AXVWTrRN84nOHO0+GKr0Twis3VFPdDIfauSr7hbsxiLGYDwlWx4wVDeg';
+      security:
+        protocol: SASL_SSL
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+server:
+  tomcat:
+    max-swallow-size: -1
+
+

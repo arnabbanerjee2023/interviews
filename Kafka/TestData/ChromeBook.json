@@ -1,0 +1,5783 @@
+{
+  "_id": "3ef81978-c003-478f-aeea-44e8d6f34b0f",
+  "name": "CHROMEBOOK",
+  "wordCount": [
+    {
+      "word": "",
+      "count": 1198
+    },
+    {
+      "word": "the",
+      "count": 304
+    },
+    {
+      "word": "to",
+      "count": 184
+    },
+    {
+      "word": "and",
+      "count": 115
+    },
+    {
+      "word": "your",
+      "count": 112
+    },
+    {
+      "word": "you",
+      "count": 79
+    },
+    {
+      "word": " ",
+      "count": 75
+    },
+    {
+      "word": "Google",
+      "count": 74
+    },
+    {
+      "word": "a",
+      "count": 71
+    },
+    {
+      "word": "select",
+      "count": 68
+    },
+    {
+      "word": "of",
+      "count": 61
+    },
+    {
+      "word": "or",
+      "count": 60
+    },
+    {
+      "word": "on",
+      "count": 55
+    },
+    {
+      "word": "in",
+      "count": 46
+    },
+    {
+      "word": "icon ",
+      "count": 39
+    },
+    {
+      "word": "Chrome",
+      "count": 38
+    },
+    {
+      "word": "Drive",
+      "count": 36
+    },
+    {
+      "word": "Chromebook",
+      "count": 35
+    },
+    {
+      "word": "apps",
+      "count": 34
+    },
+    {
+      "word": "type",
+      "count": 33
+    },
+    {
+      "word": "for",
+      "count": 32
+    },
+    {
+      "word": "Apps",
+      "count": 32
+    },
+    {
+      "word": "with",
+      "count": 31
+    },
+    {
+      "word": "from",
+      "count": 30
+    },
+    {
+      "word": "are",
+      "count": 29
+    },
+    {
+      "word": "files",
+      "count": 29
+    },
+    {
+      "word": "an",
+      "count": 27
+    },
+    {
+      "word": "is",
+      "count": 27
+    },
+    {
+      "word": "All",
+      "count": 25
+    },
+    {
+      "word": "as",
+      "count": 25
+    },
+    {
+      "word": "USB",
+      "count": 25
+    },
+    {
+      "word": "can",
+      "count": 24
+    },
+    {
+      "word": "Launcher",
+      "count": 24
+    },
+    {
+      "word": " or",
+      "count": 23
+    },
+    {
+      "word": "OS",
+      "count": 22
+    },
+    {
+      "word": "be",
+      "count": 21
+    },
+    {
+      "word": "access",
+      "count": 21
+    },
+    {
+      "word": "3 Select",
+      "count": 20
+    },
+    {
+      "word": "Office",
+      "count": 20
+    },
+    {
+      "word": "2 Click",
+      "count": 20
+    },
+    {
+      "word": "will",
+      "count": 19
+    },
+    {
+      "word": "Store",
+      "count": 19
+    },
+    {
+      "word": "app",
+      "count": 19
+    },
+    {
+      "word": "To",
+      "count": 19
+    },
+    {
+      "word": "1 Select",
+      "count": 19
+    },
+    {
+      "word": "Acer",
+      "count": 18
+    },
+    {
+      "word": "have",
+      "count": 18
+    },
+    {
+      "word": "The",
+      "count": 18
+    },
+    {
+      "word": "keyboard",
+      "count": 18
+    },
+    {
+      "word": "document",
+      "count": 18
+    },
+    {
+      "word": "by",
+      "count": 17
+    },
+    {
+      "word": "new",
+      "count": 17
+    },
+    {
+      "word": "Web",
+      "count": 17
+    },
+    {
+      "word": "that",
+      "count": 16
+    },
+    {
+      "word": "Microsoft",
+      "count": 16
+    },
+    {
+      "word": "up",
+      "count": 15
+    },
+    {
+      "word": "shelf",
+      "count": 15
+    },
+    {
+      "word": "screen",
+      "count": 15
+    },
+    {
+      "word": "Note",
+      "count": 14
+    },
+    {
+      "word": "Files",
+      "count": 14
+    },
+    {
+      "word": "Chromebook ",
+      "count": 14
+    },
+    {
+      "word": "2",
+      "count": 13
+    },
+    {
+      "word": "4",
+      "count": 13
+    },
+    {
+      "word": "Status",
+      "count": 13
+    },
+    {
+      "word": "Play",
+      "count": 13
+    },
+    {
+      "word": "How",
+      "count": 13
+    },
+    {
+      "word": "You",
+      "count": 13
+    },
+    {
+      "word": "account",
+      "count": 13
+    },
+    {
+      "word": "it",
+      "count": 13
+    },
+    {
+      "word": "Search",
+      "count": 13
+    },
+    {
+      "word": "area",
+      "count": 13
+    },
+    {
+      "word": "time",
+      "count": 13
+    },
+    {
+      "word": "using",
+      "count": 12
+    },
+    {
+      "word": "not",
+      "count": 12
+    },
+    {
+      "word": "3",
+      "count": 12
+    },
+    {
+      "word": "offline",
+      "count": 12
+    },
+    {
+      "word": "documents",
+      "count": 12
+    },
+    {
+      "word": "use",
+      "count": 12
+    },
+    {
+      "word": "like",
+      "count": 12
+    },
+    {
+      "word": "key",
+      "count": 12
+    },
+    {
+      "word": "may",
+      "count": 11
+    },
+    {
+      "word": "information",
+      "count": 11
+    },
+    {
+      "word": "other",
+      "count": 11
+    },
+    {
+      "word": "Your",
+      "count": 11
+    },
+    {
+      "word": "create",
+      "count": 11
+    },
+    {
+      "word": "when",
+      "count": 11
+    },
+    {
+      "word": "Settings",
+      "count": 11
+    },
+    {
+      "word": "corner",
+      "count": 11
+    },
+    {
+      "word": "Description",
+      "count": 11
+    },
+    {
+      "word": "1",
+      "count": 11
+    },
+    {
+      "word": "page",
+      "count": 11
+    },
+    {
+      "word": "2 Select",
+      "count": 11
+    },
+    {
+      "word": "saved",
+      "count": 11
+    },
+    {
+      "word": "1 Press",
+      "count": 11
+    },
+    {
+      "word": "email",
+      "count": 10
+    },
+    {
+      "word": "all",
+      "count": 10
+    },
+    {
+      "word": "do",
+      "count": 10
+    },
+    {
+      "word": "internet",
+      "count": 10
+    },
+    {
+      "word": "update",
+      "count": 10
+    },
+    {
+      "word": "more",
+      "count": 10
+    },
+    {
+      "word": "then",
+      "count": 10
+    },
+    {
+      "word": "any",
+      "count": 10
+    },
+    {
+      "word": "next",
+      "count": 10
+    },
+    {
+      "word": "search",
+      "count": 10
+    },
+    {
+      "word": "file",
+      "count": 10
+    },
+    {
+      "word": "this",
+      "count": 9
+    },
+    {
+      "word": "Select",
+      "count": 9
+    },
+    {
+      "word": "view",
+      "count": 9
+    },
+    {
+      "word": "video",
+      "count": 9
+    },
+    {
+      "word": "tips",
+      "count": 9
+    },
+    {
+      "word": "computer",
+      "count": 9
+    },
+    {
+      "word": "down",
+      "count": 9
+    },
+    {
+      "word": "want",
+      "count": 9
+    },
+    {
+      "word": "find",
+      "count": 9
+    },
+    {
+      "word": "following ",
+      "count": 9
+    },
+    {
+      "word": "lower right",
+      "count": 9
+    },
+    {
+      "word": " where",
+      "count": 9
+    },
+    {
+      "word": "picture",
+      "count": 9
+    },
+    {
+      "word": "appears  ",
+      "count": 9
+    },
+    {
+      "word": "settings",
+      "count": 8
+    },
+    {
+      "word": "Account",
+      "count": 8
+    },
+    {
+      "word": "Online",
+      "count": 8
+    },
+    {
+      "word": "Help",
+      "count": 8
+    },
+    {
+      "word": "web",
+      "count": 8
+    },
+    {
+      "word": "Icon",
+      "count": 8
+    },
+    {
+      "word": "icon",
+      "count": 8
+    },
+    {
+      "word": "4 Select",
+      "count": 8
+    },
+    {
+      "word": "online",
+      "count": 8
+    },
+    {
+      "word": "connected",
+      "count": 7
+    },
+    {
+      "word": "already",
+      "count": 7
+    },
+    {
+      "word": "change",
+      "count": 7
+    },
+    {
+      "word": "5",
+      "count": 7
+    },
+    {
+      "word": "16",
+      "count": 7
+    },
+    {
+      "word": "Gmail",
+      "count": 7
+    },
+    {
+      "word": "audio",
+      "count": 7
+    },
+    {
+      "word": "File",
+      "count": 7
+    },
+    {
+      "word": "Store ",
+      "count": 7
+    },
+    {
+      "word": "If",
+      "count": 7
+    },
+    {
+      "word": "one",
+      "count": 7
+    },
+    {
+      "word": "download",
+      "count": 7
+    },
+    {
+      "word": "Drive ",
+      "count": 7
+    },
+    {
+      "word": "For",
+      "count": 7
+    },
+    {
+      "word": "window",
+      "count": 7
+    },
+    {
+      "word": "apps ",
+      "count": 7
+    },
+    {
+      "word": "desired",
+      "count": 7
+    },
+    {
+      "word": "This",
+      "count": 6
+    },
+    {
+      "word": "A",
+      "count": 6
+    },
+    {
+      "word": "see",
+      "count": 6
+    },
+    {
+      "word": "Google ",
+      "count": 6
+    },
+    {
+      "word": "YouTube",
+      "count": 6
+    },
+    {
+      "word": "language",
+      "count": 6
+    },
+    {
+      "word": "Type C",
+      "count": 6
+    },
+    {
+      "word": "extensions",
+      "count": 6
+    },
+    {
+      "word": "Customizing",
+      "count": 6
+    },
+    {
+      "word": "power",
+      "count": 6
+    },
+    {
+      "word": "at",
+      "count": 6
+    },
+    {
+      "word": "available",
+      "count": 6
+    },
+    {
+      "word": "such",
+      "count": 6
+    },
+    {
+      "word": "right",
+      "count": 6
+    },
+    {
+      "word": "left",
+      "count": 6
+    },
+    {
+      "word": "current",
+      "count": 6
+    },
+    {
+      "word": "Connects",
+      "count": 6
+    },
+    {
+      "word": "devices ",
+      "count": 6
+    },
+    {
+      "word": "app ",
+      "count": 6
+    },
+    {
+      "word": "drive",
+      "count": 6
+    },
+    {
+      "word": "In",
+      "count": 6
+    },
+    {
+      "word": "changes",
+      "count": 6
+    },
+    {
+      "word": "15",
+      "count": 5
+    },
+    {
+      "word": "Sign",
+      "count": 5
+    },
+    {
+      "word": "if",
+      "count": 5
+    },
+    {
+      "word": "Important",
+      "count": 5
+    },
+    {
+      "word": "                                      ",
+      "count": 5
+    },
+    {
+      "word": "6",
+      "count": 5
+    },
+    {
+      "word": "8",
+      "count": 5
+    },
+    {
+      "word": "Touchpad",
+      "count": 5
+    },
+    {
+      "word": "side",
+      "count": 5
+    },
+    {
+      "word": "3 0",
+      "count": 5
+    },
+    {
+      "word": "19",
+      "count": 5
+    },
+    {
+      "word": "Supported",
+      "count": 5
+    },
+    {
+      "word": "tricks",
+      "count": 5
+    },
+    {
+      "word": "24",
+      "count": 5
+    },
+    {
+      "word": "Offline",
+      "count": 5
+    },
+    {
+      "word": "help",
+      "count": 5
+    },
+    {
+      "word": "button",
+      "count": 5
+    },
+    {
+      "word": "it ",
+      "count": 5
+    },
+    {
+      "word": "box",
+      "count": 5
+    },
+    {
+      "word": "fingers",
+      "count": 5
+    },
+    {
+      "word": "page ",
+      "count": 5
+    },
+    {
+      "word": "move",
+      "count": 5
+    },
+    {
+      "word": "tap",
+      "count": 5
+    },
+    {
+      "word": "stored",
+      "count": 5
+    },
+    {
+      "word": "name",
+      "count": 5
+    },
+    {
+      "word": "5 Select",
+      "count": 5
+    },
+    {
+      "word": "offline ",
+      "count": 5
+    },
+    {
+      "word": " Google",
+      "count": 5
+    },
+    {
+      "word": "created",
+      "count": 5
+    },
+    {
+      "word": "section ",
+      "count": 5
+    },
+    {
+      "word": "product",
+      "count": 4
+    },
+    {
+      "word": "only",
+      "count": 4
+    },
+    {
+      "word": "Create",
+      "count": 4
+    },
+    {
+      "word": "tour",
+      "count": 4
+    },
+    {
+      "word": "7",
+      "count": 4
+    },
+    {
+      "word": "Function",
+      "count": 4
+    },
+    {
+      "word": "shortcuts",
+      "count": 4
+    },
+    {
+      "word": "10",
+      "count": 4
+    },
+    {
+      "word": "Installing",
+      "count": 4
+    },
+    {
+      "word": "Pin",
+      "count": 4
+    },
+    {
+      "word": "17",
+      "count": 4
+    },
+    {
+      "word": "Creating",
+      "count": 4
+    },
+    {
+      "word": "22",
+      "count": 4
+    },
+    {
+      "word": "users",
+      "count": 4
+    },
+    {
+      "word": "start",
+      "count": 4
+    },
+    {
+      "word": "Open",
+      "count": 4
+    },
+    {
+      "word": "no",
+      "count": 4
+    },
+    {
+      "word": "29",
+      "count": 4
+    },
+    {
+      "word": "30",
+      "count": 4
+    },
+    {
+      "word": "first",
+      "count": 4
+    },
+    {
+      "word": "list",
+      "count": 4
+    },
+    {
+      "word": "network",
+      "count": 4
+    },
+    {
+      "word": "so",
+      "count": 4
+    },
+    {
+      "word": "automatically",
+      "count": 4
+    },
+    {
+      "word": "settings ",
+      "count": 4
+    },
+    {
+      "word": "Item",
+      "count": 4
+    },
+    {
+      "word": "output ",
+      "count": 4
+    },
+    {
+      "word": "which",
+      "count": 4
+    },
+    {
+      "word": "mouse ",
+      "count": 4
+    },
+    {
+      "word": "touchpad",
+      "count": 4
+    },
+    {
+      "word": "Alt",
+      "count": 4
+    },
+    {
+      "word": "both",
+      "count": 4
+    },
+    {
+      "word": "port",
+      "count": 4
+    },
+    {
+      "word": "adapter",
+      "count": 4
+    },
+    {
+      "word": "devices",
+      "count": 4
+    },
+    {
+      "word": "browser",
+      "count": 4
+    },
+    {
+      "word": "shelf ",
+      "count": 4
+    },
+    {
+      "word": "open",
+      "count": 4
+    },
+    {
+      "word": "they",
+      "count": 4
+    },
+    {
+      "word": " see",
+      "count": 4
+    },
+    {
+      "word": "service",
+      "count": 4
+    },
+    {
+      "word": " Files   ",
+      "count": 4
+    },
+    {
+      "word": "My",
+      "count": 4
+    },
+    {
+      "word": "while",
+      "count": 4
+    },
+    {
+      "word": "enable",
+      "count": 4
+    },
+    {
+      "word": "formats",
+      "count": 4
+    },
+    {
+      "word": "Docs ",
+      "count": 4
+    },
+    {
+      "word": "document ",
+      "count": 4
+    },
+    {
+      "word": "make",
+      "count": 4
+    },
+    {
+      "word": "hard",
+      "count": 4
+    },
+    {
+      "word": "own",
+      "count": 4
+    },
+    {
+      "word": "OneDrive",
+      "count": 4
+    },
+    {
+      "word": "Advanced ",
+      "count": 4
+    },
+    {
+      "word": "ID",
+      "count": 3
+    },
+    {
+      "word": "registered",
+      "count": 3
+    },
+    {
+      "word": "password",
+      "count": 3
+    },
+    {
+      "word": "take",
+      "count": 3
+    },
+    {
+      "word": "few",
+      "count": 3
+    },
+    {
+      "word": "                                 ",
+      "count": 3
+    },
+    {
+      "word": "manual",
+      "count": 3
+    },
+    {
+      "word": "provided",
+      "count": 3
+    },
+    {
+      "word": "features",
+      "count": 3
+    },
+    {
+      "word": "computer ",
+      "count": 3
+    },
+    {
+      "word": "                         ",
+      "count": 3
+    },
+    {
+      "word": "Getting",
+      "count": 3
+    },
+    {
+      "word": "Terms",
+      "count": 3
+    },
+    {
+      "word": "sign in",
+      "count": 3
+    },
+    {
+      "word": "Browse",
+      "count": 3
+    },
+    {
+      "word": "Keyboard",
+      "count": 3
+    },
+    {
+      "word": "11",
+      "count": 3
+    },
+    {
+      "word": "12",
+      "count": 3
+    },
+    {
+      "word": "Window",
+      "count": 3
+    },
+    {
+      "word": "controls",
+      "count": 3
+    },
+    {
+      "word": "13",
+      "count": 3
+    },
+    {
+      "word": "Unpin",
+      "count": 3
+    },
+    {
+      "word": "Downloads",
+      "count": 3
+    },
+    {
+      "word": "Enable",
+      "count": 3
+    },
+    {
+      "word": "Other",
+      "count": 3
+    },
+    {
+      "word": "21",
+      "count": 3
+    },
+    {
+      "word": "share",
+      "count": 3
+    },
+    {
+      "word": "listen",
+      "count": 3
+    },
+    {
+      "word": "watch",
+      "count": 3
+    },
+    {
+      "word": "videos ",
+      "count": 3
+    },
+    {
+      "word": "edit",
+      "count": 3
+    },
+    {
+      "word": "Google s",
+      "count": 3
+    },
+    {
+      "word": "mode",
+      "count": 3
+    },
+    {
+      "word": "Microsoft s",
+      "count": 3
+    },
+    {
+      "word": "26",
+      "count": 3
+    },
+    {
+      "word": "28",
+      "count": 3
+    },
+    {
+      "word": "Changing",
+      "count": 3
+    },
+    {
+      "word": "theme",
+      "count": 3
+    },
+    {
+      "word": "printer",
+      "count": 3
+    },
+    {
+      "word": "33",
+      "count": 3
+    },
+    {
+      "word": "appear",
+      "count": 3
+    },
+    {
+      "word": "up ",
+      "count": 3
+    },
+    {
+      "word": "than",
+      "count": 3
+    },
+    {
+      "word": "input",
+      "count": 3
+    },
+    {
+      "word": "method",
+      "count": 3
+    },
+    {
+      "word": "connect",
+      "count": 3
+    },
+    {
+      "word": "get",
+      "count": 3
+    },
+    {
+      "word": "don t",
+      "count": 3
+    },
+    {
+      "word": "set",
+      "count": 3
+    },
+    {
+      "word": "useful",
+      "count": 3
+    },
+    {
+      "word": "also",
+      "count": 3
+    },
+    {
+      "word": "selecting",
+      "count": 3
+    },
+    {
+      "word": "options",
+      "count": 3
+    },
+    {
+      "word": "light",
+      "count": 3
+    },
+    {
+      "word": "into",
+      "count": 3
+    },
+    {
+      "word": "functions",
+      "count": 3
+    },
+    {
+      "word": "anywhere",
+      "count": 3
+    },
+    {
+      "word": "two",
+      "count": 3
+    },
+    {
+      "word": "keys",
+      "count": 3
+    },
+    {
+      "word": "function",
+      "count": 3
+    },
+    {
+      "word": "some",
+      "count": 3
+    },
+    {
+      "word": "volume ",
+      "count": 3
+    },
+    {
+      "word": "Reload",
+      "count": 3
+    },
+    {
+      "word": "Volume",
+      "count": 3
+    },
+    {
+      "word": "them",
+      "count": 3
+    },
+    {
+      "word": "scroll",
+      "count": 3
+    },
+    {
+      "word": "drop",
+      "count": 3
+    },
+    {
+      "word": "works",
+      "count": 3
+    },
+    {
+      "word": "files ",
+      "count": 3
+    },
+    {
+      "word": "battery",
+      "count": 3
+    },
+    {
+      "word": "shows",
+      "count": 3
+    },
+    {
+      "word": "Supports",
+      "count": 3
+    },
+    {
+      "word": "DisplayPort ",
+      "count": 3
+    },
+    {
+      "word": "device ",
+      "count": 3
+    },
+    {
+      "word": "address",
+      "count": 3
+    },
+    {
+      "word": "known",
+      "count": 3
+    },
+    {
+      "word": "display",
+      "count": 3
+    },
+    {
+      "word": "internet ",
+      "count": 3
+    },
+    {
+      "word": "information ",
+      "count": 3
+    },
+    {
+      "word": "Some",
+      "count": 3
+    },
+    {
+      "word": "status",
+      "count": 3
+    },
+    {
+      "word": " Play",
+      "count": 3
+    },
+    {
+      "word": "programs",
+      "count": 3
+    },
+    {
+      "word": "browser ",
+      "count": 3
+    },
+    {
+      "word": "Android",
+      "count": 3
+    },
+    {
+      "word": "ADD",
+      "count": 3
+    },
+    {
+      "word": "Launcher ",
+      "count": 3
+    },
+    {
+      "word": "app  ",
+      "count": 3
+    },
+    {
+      "word": "countries",
+      "count": 3
+    },
+    {
+      "word": "regions ",
+      "count": 3
+    },
+    {
+      "word": "add",
+      "count": 3
+    },
+    {
+      "word": "how",
+      "count": 3
+    },
+    {
+      "word": "cannot",
+      "count": 3
+    },
+    {
+      "word": "accessible",
+      "count": 3
+    },
+    {
+      "word": "local",
+      "count": 3
+    },
+    {
+      "word": "storage",
+      "count": 3
+    },
+    {
+      "word": "those",
+      "count": 3
+    },
+    {
+      "word": "must",
+      "count": 3
+    },
+    {
+      "word": "creating",
+      "count": 3
+    },
+    {
+      "word": "documents ",
+      "count": 3
+    },
+    {
+      "word": "access ",
+      "count": 3
+    },
+    {
+      "word": "menu",
+      "count": 3
+    },
+    {
+      "word": "Slides ",
+      "count": 3
+    },
+    {
+      "word": "you ve",
+      "count": 3
+    },
+    {
+      "word": "Hangouts",
+      "count": 3
+    },
+    {
+      "word": "save",
+      "count": 3
+    },
+    {
+      "word": "upload",
+      "count": 3
+    },
+    {
+      "word": "wallpaper",
+      "count": 3
+    },
+    {
+      "word": "Internet ",
+      "count": 2
+    },
+    {
+      "word": "www acer com",
+      "count": 2
+    },
+    {
+      "word": "country ",
+      "count": 2
+    },
+    {
+      "word": "Register",
+      "count": 2
+    },
+    {
+      "word": "After",
+      "count": 2
+    },
+    {
+      "word": "receive",
+      "count": 2
+    },
+    {
+      "word": "data ",
+      "count": 2
+    },
+    {
+      "word": "Manage",
+      "count": 2
+    },
+    {
+      "word": "products",
+      "count": 2
+    },
+    {
+      "word": "Once",
+      "count": 2
+    },
+    {
+      "word": "log",
+      "count": 2
+    },
+    {
+      "word": "It",
+      "count": 2
+    },
+    {
+      "word": "number ",
+      "count": 2
+    },
+    {
+      "word": "Date",
+      "count": 2
+    },
+    {
+      "word": "purchase ",
+      "count": 2
+    },
+    {
+      "word": "Place",
+      "count": 2
+    },
+    {
+      "word": "                              ",
+      "count": 2
+    },
+    {
+      "word": "Android ",
+      "count": 2
+    },
+    {
+      "word": "contains",
+      "count": 2
+    },
+    {
+      "word": "contained",
+      "count": 2
+    },
+    {
+      "word": "without",
+      "count": 2
+    },
+    {
+      "word": "Images",
+      "count": 2
+    },
+    {
+      "word": "reference",
+      "count": 2
+    },
+    {
+      "word": "apply",
+      "count": 2
+    },
+    {
+      "word": "contents",
+      "count": 2
+    },
+    {
+      "word": "started",
+      "count": 2
+    },
+    {
+      "word": "Turn",
+      "count": 2
+    },
+    {
+      "word": "Connect",
+      "count": 2
+    },
+    {
+      "word": "Accept",
+      "count": 2
+    },
+    {
+      "word": "First time",
+      "count": 2
+    },
+    {
+      "word": "guest",
+      "count": 2
+    },
+    {
+      "word": "                  ",
+      "count": 2
+    },
+    {
+      "word": "Front",
+      "count": 2
+    },
+    {
+      "word": "view                                         ",
+      "count": 2
+    },
+    {
+      "word": "                                                    ",
+      "count": 2
+    },
+    {
+      "word": "Left",
+      "count": 2
+    },
+    {
+      "word": "                           ",
+      "count": 2
+    },
+    {
+      "word": "Desktop",
+      "count": 2
+    },
+    {
+      "word": "Shelf",
+      "count": 2
+    },
+    {
+      "word": "Pinned",
+      "count": 2
+    },
+    {
+      "word": "14",
+      "count": 2
+    },
+    {
+      "word": "Managing",
+      "count": 2
+    },
+    {
+      "word": "  ",
+      "count": 2
+    },
+    {
+      "word": "    ",
+      "count": 2
+    },
+    {
+      "word": "Removing",
+      "count": 2
+    },
+    {
+      "word": "Difference",
+      "count": 2
+    },
+    {
+      "word": "between",
+      "count": 2
+    },
+    {
+      "word": "Sync",
+      "count": 2
+    },
+    {
+      "word": "18",
+      "count": 2
+    },
+    {
+      "word": "Composing",
+      "count": 2
+    },
+    {
+      "word": "Playing",
+      "count": 2
+    },
+    {
+      "word": "chat",
+      "count": 2
+    },
+    {
+      "word": "                       ",
+      "count": 2
+    },
+    {
+      "word": "23",
+      "count": 2
+    },
+    {
+      "word": "TV ",
+      "count": 2
+    },
+    {
+      "word": " Word ",
+      "count": 2
+    },
+    {
+      "word": "Excel ",
+      "count": 2
+    },
+    {
+      "word": "Powerpoint ",
+      "count": 2
+    },
+    {
+      "word": "office",
+      "count": 2
+    },
+    {
+      "word": "compatibility",
+      "count": 2
+    },
+    {
+      "word": "Convert",
+      "count": 2
+    },
+    {
+      "word": "Export",
+      "count": 2
+    },
+    {
+      "word": "Opening",
+      "count": 2
+    },
+    {
+      "word": "25",
+      "count": 2
+    },
+    {
+      "word": "there s",
+      "count": 2
+    },
+    {
+      "word": "                                             ",
+      "count": 2
+    },
+    {
+      "word": "clock",
+      "count": 2
+    },
+    {
+      "word": "appearance",
+      "count": 2
+    },
+    {
+      "word": "Setting",
+      "count": 2
+    },
+    {
+      "word": "Updating",
+      "count": 2
+    },
+    {
+      "word": "Automatic",
+      "count": 2
+    },
+    {
+      "word": "31",
+      "count": 2
+    },
+    {
+      "word": "Resetting",
+      "count": 2
+    },
+    {
+      "word": "Use",
+      "count": 2
+    },
+    {
+      "word": "choose",
+      "count": 2
+    },
+    {
+      "word": "default",
+      "count": 2
+    },
+    {
+      "word": "there",
+      "count": 2
+    },
+    {
+      "word": "way",
+      "count": 2
+    },
+    {
+      "word": "network ",
+      "count": 2
+    },
+    {
+      "word": "need",
+      "count": 2
+    },
+    {
+      "word": "system",
+      "count": 2
+    },
+    {
+      "word": "updates ",
+      "count": 2
+    },
+    {
+      "word": "Account ",
+      "count": 2
+    },
+    {
+      "word": "enter",
+      "count": 2
+    },
+    {
+      "word": "username",
+      "count": 2
+    },
+    {
+      "word": "able",
+      "count": 2
+    },
+    {
+      "word": "show",
+      "count": 2
+    },
+    {
+      "word": "supports",
+      "count": 2
+    },
+    {
+      "word": "input ",
+      "count": 2
+    },
+    {
+      "word": "webcam",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "pointing",
+      "count": 2
+    },
+    {
+      "word": "device",
+      "count": 2
+    },
+    {
+      "word": "Pressing",
+      "count": 2
+    },
+    {
+      "word": "uses",
+      "count": 2
+    },
+    {
+      "word": "hardware",
+      "count": 2
+    },
+    {
+      "word": "software",
+      "count": 2
+    },
+    {
+      "word": "specific",
+      "count": 2
+    },
+    {
+      "word": "Go",
+      "count": 2
+    },
+    {
+      "word": "previous",
+      "count": 2
+    },
+    {
+      "word": "Next",
+      "count": 2
+    },
+    {
+      "word": "built in",
+      "count": 2
+    },
+    {
+      "word": "touchpad ",
+      "count": 2
+    },
+    {
+      "word": "mode ",
+      "count": 2
+    },
+    {
+      "word": "Brightness",
+      "count": 2
+    },
+    {
+      "word": "Decreases",
+      "count": 2
+    },
+    {
+      "word": "brightness ",
+      "count": 2
+    },
+    {
+      "word": "Increases",
+      "count": 2
+    },
+    {
+      "word": "lock ",
+      "count": 2
+    },
+    {
+      "word": "screen ",
+      "count": 2
+    },
+    {
+      "word": "Action",
+      "count": 2
+    },
+    {
+      "word": "Gesture",
+      "count": 2
+    },
+    {
+      "word": "Click",
+      "count": 2
+    },
+    {
+      "word": "finger ",
+      "count": 2
+    },
+    {
+      "word": "With",
+      "count": 2
+    },
+    {
+      "word": "item ",
+      "count": 2
+    },
+    {
+      "word": "Battery",
+      "count": 2
+    },
+    {
+      "word": "computer s",
+      "count": 2
+    },
+    {
+      "word": "charging ",
+      "count": 2
+    },
+    {
+      "word": "DC in",
+      "count": 2
+    },
+    {
+      "word": "Type ",
+      "count": 2
+    },
+    {
+      "word": "C",
+      "count": 2
+    },
+    {
+      "word": "connector ",
+      "count": 2
+    },
+    {
+      "word": "over",
+      "count": 2
+    },
+    {
+      "word": "USB ",
+      "count": 2
+    },
+    {
+      "word": "C  ",
+      "count": 2
+    },
+    {
+      "word": "card",
+      "count": 2
+    },
+    {
+      "word": "slot",
+      "count": 2
+    },
+    {
+      "word": "compatible",
+      "count": 2
+    },
+    {
+      "word": "optimal",
+      "count": 2
+    },
+    {
+      "word": "performance ",
+      "count": 2
+    },
+    {
+      "word": "9",
+      "count": 2
+    },
+    {
+      "word": "Number",
+      "count": 2
+    },
+    {
+      "word": "webpage ",
+      "count": 2
+    },
+    {
+      "word": "Closes",
+      "count": 2
+    },
+    {
+      "word": "tab ",
+      "count": 2
+    },
+    {
+      "word": " also",
+      "count": 2
+    },
+    {
+      "word": "desktop",
+      "count": 2
+    },
+    {
+      "word": "Simply",
+      "count": 2
+    },
+    {
+      "word": "typing",
+      "count": 2
+    },
+    {
+      "word": "entire",
+      "count": 2
+    },
+    {
+      "word": "Also ",
+      "count": 2
+    },
+    {
+      "word": " save ",
+      "count": 2
+    },
+    {
+      "word": "control",
+      "count": 2
+    },
+    {
+      "word": "Chrome ",
+      "count": 2
+    },
+    {
+      "word": "enables",
+      "count": 2
+    },
+    {
+      "word": "time ",
+      "count": 2
+    },
+    {
+      "word": "options ",
+      "count": 2
+    },
+    {
+      "word": "extra",
+      "count": 2
+    },
+    {
+      "word": "designed",
+      "count": 2
+    },
+    {
+      "word": "work",
+      "count": 2
+    },
+    {
+      "word": "web ",
+      "count": 2
+    },
+    {
+      "word": "through",
+      "count": 2
+    },
+    {
+      "word": "Store   ",
+      "count": 2
+    },
+    {
+      "word": "4 You",
+      "count": 2
+    },
+    {
+      "word": "browse",
+      "count": 2
+    },
+    {
+      "word": "categories",
+      "count": 2
+    },
+    {
+      "word": "box ",
+      "count": 2
+    },
+    {
+      "word": "5 When",
+      "count": 2
+    },
+    {
+      "word": "would",
+      "count": 2
+    },
+    {
+      "word": "TO",
+      "count": 2
+    },
+    {
+      "word": "CHROME ",
+      "count": 2
+    },
+    {
+      "word": "Add",
+      "count": 2
+    },
+    {
+      "word": "install",
+      "count": 2
+    },
+    {
+      "word": "installed",
+      "count": 2
+    },
+    {
+      "word": "8 ",
+      "count": 2
+    },
+    {
+      "word": "two finger",
+      "count": 2
+    },
+    {
+      "word": "just",
+      "count": 2
+    },
+    {
+      "word": "smartphone",
+      "count": 2
+    },
+    {
+      "word": "tablet ",
+      "count": 2
+    },
+    {
+      "word": "folder",
+      "count": 2
+    },
+    {
+      "word": "web based",
+      "count": 2
+    },
+    {
+      "word": "makes",
+      "count": 2
+    },
+    {
+      "word": "locally",
+      "count": 2
+    },
+    {
+      "word": "list ",
+      "count": 2
+    },
+    {
+      "word": "create ",
+      "count": 2
+    },
+    {
+      "word": "following",
+      "count": 2
+    },
+    {
+      "word": "alternative",
+      "count": 2
+    },
+    {
+      "word": "upload ",
+      "count": 2
+    },
+    {
+      "word": "address ",
+      "count": 2
+    },
+    {
+      "word": "message ",
+      "count": 2
+    },
+    {
+      "word": "doing",
+      "count": 2
+    },
+    {
+      "word": "has",
+      "count": 2
+    },
+    {
+      "word": "play",
+      "count": 2
+    },
+    {
+      "word": "what",
+      "count": 2
+    },
+    {
+      "word": "might",
+      "count": 2
+    },
+    {
+      "word": "know",
+      "count": 2
+    },
+    {
+      "word": "Sheets ",
+      "count": 2
+    },
+    {
+      "word": "Sheets",
+      "count": 2
+    },
+    {
+      "word": "Slides",
+      "count": 2
+    },
+    {
+      "word": "where",
+      "count": 2
+    },
+    {
+      "word": "Drive   ",
+      "count": 2
+    },
+    {
+      "word": "whatever",
+      "count": 2
+    },
+    {
+      "word": "put",
+      "count": 2
+    },
+    {
+      "word": "in  ",
+      "count": 2
+    },
+    {
+      "word": "option",
+      "count": 2
+    },
+    {
+      "word": "shared",
+      "count": 2
+    },
+    {
+      "word": "them ",
+      "count": 2
+    },
+    {
+      "word": "out",
+      "count": 2
+    },
+    {
+      "word": "free",
+      "count": 2
+    },
+    {
+      "word": "Music",
+      "count": 2
+    },
+    {
+      "word": "streaming",
+      "count": 2
+    },
+    {
+      "word": " availability",
+      "count": 2
+    },
+    {
+      "word": "varies",
+      "count": 2
+    },
+    {
+      "word": "movies",
+      "count": 2
+    },
+    {
+      "word": "Movies",
+      "count": 2
+    },
+    {
+      "word": "entertainment",
+      "count": 2
+    },
+    {
+      "word": "Then ",
+      "count": 2
+    },
+    {
+      "word": "Play s",
+      "count": 2
+    },
+    {
+      "word": "country",
+      "count": 2
+    },
+    {
+      "word": "availability",
+      "count": 2
+    },
+    {
+      "word": "digital",
+      "count": 2
+    },
+    {
+      "word": "content ",
+      "count": 2
+    },
+    {
+      "word": "visit",
+      "count": 2
+    },
+    {
+      "word": "https   ",
+      "count": 2
+    },
+    {
+      "word": "support google com googleplay answer 2843119 hl en",
+      "count": 2
+    },
+    {
+      "word": "4 Double click",
+      "count": 2
+    },
+    {
+      "word": "external",
+      "count": 2
+    },
+    {
+      "word": "flash",
+      "count": 2
+    },
+    {
+      "word": "format",
+      "count": 2
+    },
+    {
+      "word": "working",
+      "count": 2
+    },
+    {
+      "word": "Online ",
+      "count": 2
+    },
+    {
+      "word": "times",
+      "count": 2
+    },
+    {
+      "word": "connection ",
+      "count": 2
+    },
+    {
+      "word": "normally",
+      "count": 2
+    },
+    {
+      "word": "send",
+      "count": 2
+    },
+    {
+      "word": "version",
+      "count": 2
+    },
+    {
+      "word": "changes ",
+      "count": 2
+    },
+    {
+      "word": "open ",
+      "count": 2
+    },
+    {
+      "word": "types",
+      "count": 2
+    },
+    {
+      "word": "someone",
+      "count": 2
+    },
+    {
+      "word": "well",
+      "count": 2
+    },
+    {
+      "word": " for",
+      "count": 2
+    },
+    {
+      "word": "example ",
+      "count": 2
+    },
+    {
+      "word": "additional",
+      "count": 2
+    },
+    {
+      "word": "zone",
+      "count": 2
+    },
+    {
+      "word": "try",
+      "count": 2
+    },
+    {
+      "word": "zone ",
+      "count": 2
+    },
+    {
+      "word": "4 ",
+      "count": 2
+    },
+    {
+      "word": "3 ",
+      "count": 2
+    },
+    {
+      "word": "Appearance",
+      "count": 2
+    },
+    {
+      "word": "Cloud",
+      "count": 2
+    },
+    {
+      "word": "Print",
+      "count": 2
+    },
+    {
+      "word": "about",
+      "count": 2
+    },
+    {
+      "word": "Help ",
+      "count": 2
+    },
+    {
+      "word": " Get",
+      "count": 2
+    },
+    {
+      "word": "Help   ",
+      "count": 2
+    },
+    {
+      "word": "Get",
+      "count": 2
+    },
+    {
+      "word": "available ",
+      "count": 2
+    },
+    {
+      "word": "update ",
+      "count": 2
+    },
+    {
+      "word": "check",
+      "count": 2
+    },
+    {
+      "word": "resetting",
+      "count": 2
+    },
+    {
+      "word": "authorized",
+      "count": 2
+    },
+    {
+      "word": "require",
+      "count": 2
+    },
+    {
+      "word": "USER S",
+      "count": 1
+    },
+    {
+      "word": "MANUAL",
+      "count": 1
+    },
+    {
+      "word": "2019 ",
+      "count": 1
+    },
+    {
+      "word": "Rights",
+      "count": 1
+    },
+    {
+      "word": "Reserved ",
+      "count": 1
+    },
+    {
+      "word": "Covers ",
+      "count": 1
+    },
+    {
+      "word": "CB315 1HT",
+      "count": 1
+    },
+    {
+      "word": "revision ",
+      "count": 1
+    },
+    {
+      "word": "May",
+      "count": 1
+    },
+    {
+      "word": "2019",
+      "count": 1
+    },
+    {
+      "word": "enjoy",
+      "count": 1
+    },
+    {
+      "word": "great",
+      "count": 1
+    },
+    {
+      "word": "benefits",
+      "count": 1
+    },
+    {
+      "word": "1 Ensure",
+      "count": 1
+    },
+    {
+      "word": "2 Open",
+      "count": 1
+    },
+    {
+      "word": "Support",
+      "count": 1
+    },
+    {
+      "word": "REGISTER",
+      "count": 1
+    },
+    {
+      "word": "PRODUCT ",
+      "count": 1
+    },
+    {
+      "word": "4 Sign",
+      "count": 1
+    },
+    {
+      "word": "sign",
+      "count": 1
+    },
+    {
+      "word": "ID ",
+      "count": 1
+    },
+    {
+      "word": "we",
+      "count": 1
+    },
+    {
+      "word": "registration ",
+      "count": 1
+    },
+    {
+      "word": "sent",
+      "count": 1
+    },
+    {
+      "word": "confirmation",
+      "count": 1
+    },
+    {
+      "word": "important",
+      "count": 1
+    },
+    {
+      "word": "Keep",
+      "count": 1
+    },
+    {
+      "word": "safe",
+      "count": 1
+    },
+    {
+      "word": "place ",
+      "count": 1
+    },
+    {
+      "word": "completed",
+      "count": 1
+    },
+    {
+      "word": "registration",
+      "count": 1
+    },
+    {
+      "word": "process ",
+      "count": 1
+    },
+    {
+      "word": "onto",
+      "count": 1
+    },
+    {
+      "word": "account acer com",
+      "count": 1
+    },
+    {
+      "word": "manage",
+      "count": 1
+    },
+    {
+      "word": "products ",
+      "count": 1
+    },
+    {
+      "word": "days",
+      "count": 1
+    },
+    {
+      "word": "updated",
+      "count": 1
+    },
+    {
+      "word": "database ",
+      "count": 1
+    },
+    {
+      "word": "Model",
+      "count": 1
+    },
+    {
+      "word": "Serial",
+      "count": 1
+    },
+    {
+      "word": "                               ",
+      "count": 1
+    },
+    {
+      "word": "Play ",
+      "count": 1
+    },
+    {
+      "word": "marks",
+      "count": 1
+    },
+    {
+      "word": "trademarks",
+      "count": 1
+    },
+    {
+      "word": "LLC ",
+      "count": 1
+    },
+    {
+      "word": "proprietary",
+      "count": 1
+    },
+    {
+      "word": "protected",
+      "count": 1
+    },
+    {
+      "word": "copyright",
+      "count": 1
+    },
+    {
+      "word": "laws ",
+      "count": 1
+    },
+    {
+      "word": "subject",
+      "count": 1
+    },
+    {
+      "word": "notice ",
+      "count": 1
+    },
+    {
+      "word": "herein",
+      "count": 1
+    },
+    {
+      "word": "contain",
+      "count": 1
+    },
+    {
+      "word": "Group",
+      "count": 1
+    },
+    {
+      "word": "shall",
+      "count": 1
+    },
+    {
+      "word": "liable",
+      "count": 1
+    },
+    {
+      "word": "technical",
+      "count": 1
+    },
+    {
+      "word": "editorial",
+      "count": 1
+    },
+    {
+      "word": "errors",
+      "count": 1
+    },
+    {
+      "word": "omissions",
+      "count": 1
+    },
+    {
+      "word": "manual ",
+      "count": 1
+    },
+    {
+      "word": "Table",
+      "count": 1
+    },
+    {
+      "word": "TABLE",
+      "count": 1
+    },
+    {
+      "word": "OF",
+      "count": 1
+    },
+    {
+      "word": "CONTENTS",
+      "count": 1
+    },
+    {
+      "word": "               ",
+      "count": 1
+    },
+    {
+      "word": "Chromebook                       ",
+      "count": 1
+    },
+    {
+      "word": "                 ",
+      "count": 1
+    },
+    {
+      "word": "network                               ",
+      "count": 1
+    },
+    {
+      "word": "Service                       ",
+      "count": 1
+    },
+    {
+      "word": "                ",
+      "count": 1
+    },
+    {
+      "word": "view                                                ",
+      "count": 1
+    },
+    {
+      "word": "keys                                              ",
+      "count": 1
+    },
+    {
+      "word": "Common",
+      "count": 1
+    },
+    {
+      "word": "                      ",
+      "count": 1
+    },
+    {
+      "word": "Right",
+      "count": 1
+    },
+    {
+      "word": "information                                  ",
+      "count": 1
+    },
+    {
+      "word": "                                   ",
+      "count": 1
+    },
+    {
+      "word": "                                                      ",
+      "count": 1
+    },
+    {
+      "word": "                                                   ",
+      "count": 1
+    },
+    {
+      "word": "                                              ",
+      "count": 1
+    },
+    {
+      "word": "area                                                ",
+      "count": 1
+    },
+    {
+      "word": "OS             ",
+      "count": 1
+    },
+    {
+      "word": "shelf                      ",
+      "count": 1
+    },
+    {
+      "word": "                                         ",
+      "count": 1
+    },
+    {
+      "word": "Drive                                                          ",
+      "count": 1
+    },
+    {
+      "word": "files                                                            ",
+      "count": 1
+    },
+    {
+      "word": "                                               ",
+      "count": 1
+    },
+    {
+      "word": "                    ",
+      "count": 1
+    },
+    {
+      "word": "Types                   ",
+      "count": 1
+    },
+    {
+      "word": "Documents                                             ",
+      "count": 1
+    },
+    {
+      "word": "Finding",
+      "count": 1
+    },
+    {
+      "word": "documents                            ",
+      "count": 1
+    },
+    {
+      "word": "                                                         ",
+      "count": 1
+    },
+    {
+      "word": "music                            ",
+      "count": 1
+    },
+    {
+      "word": "movies      ",
+      "count": 1
+    },
+    {
+      "word": "Working",
+      "count": 1
+    },
+    {
+      "word": "       ",
+      "count": 1
+    },
+    {
+      "word": "           ",
+      "count": 1
+    },
+    {
+      "word": "formats                                             ",
+      "count": 1
+    },
+    {
+      "word": "files                                  ",
+      "count": 1
+    },
+    {
+      "word": "                                  ",
+      "count": 1
+    },
+    {
+      "word": "            ",
+      "count": 1
+    },
+    {
+      "word": "settings                   ",
+      "count": 1
+    },
+    {
+      "word": "wallpaper                        ",
+      "count": 1
+    },
+    {
+      "word": "                             ",
+      "count": 1
+    },
+    {
+      "word": "                                ",
+      "count": 1
+    },
+    {
+      "word": "                            ",
+      "count": 1
+    },
+    {
+      "word": "Manual",
+      "count": 1
+    },
+    {
+      "word": "                                          ",
+      "count": 1
+    },
+    {
+      "word": "startedGETTING",
+      "count": 1
+    },
+    {
+      "word": "STARTED",
+      "count": 1
+    },
+    {
+      "word": "On",
+      "count": 1
+    },
+    {
+      "word": "located",
+      "count": 1
+    },
+    {
+      "word": "top right",
+      "count": 1
+    },
+    {
+      "word": "keyboard ",
+      "count": 1
+    },
+    {
+      "word": " Welcome ",
+      "count": 1
+    },
+    {
+      "word": "boots",
+      "count": 1
+    },
+    {
+      "word": " Language ",
+      "count": 1
+    },
+    {
+      "word": "drop down",
+      "count": 1
+    },
+    {
+      "word": "setting ",
+      "count": 1
+    },
+    {
+      "word": "language ",
+      "count": 1
+    },
+    {
+      "word": "prompted",
+      "count": 1
+    },
+    {
+      "word": "well ",
+      "count": 1
+    },
+    {
+      "word": " Connect",
+      "count": 1
+    },
+    {
+      "word": "protected ",
+      "count": 1
+    },
+    {
+      "word": "Service",
+      "count": 1
+    },
+    {
+      "word": "accept",
+      "count": 1
+    },
+    {
+      "word": "Service ",
+      "count": 1
+    },
+    {
+      "word": "latest",
+      "count": 1
+    },
+    {
+      "word": "features ",
+      "count": 1
+    },
+    {
+      "word": "one ",
+      "count": 1
+    },
+    {
+      "word": "account ",
+      "count": 1
+    },
+    {
+      "word": "gives",
+      "count": 1
+    },
+    {
+      "word": "services",
+      "count": 1
+    },
+    {
+      "word": "developed",
+      "count": 1
+    },
+    {
+      "word": "Gmail ",
+      "count": 1
+    },
+    {
+      "word": "Calendar ",
+      "count": 1
+    },
+    {
+      "word": "Guest ",
+      "count": 1
+    },
+    {
+      "word": "5Sign",
+      "count": 1
+    },
+    {
+      "word": "appears",
+      "count": 1
+    },
+    {
+      "word": "button ",
+      "count": 1
+    },
+    {
+      "word": "Enter",
+      "count": 1
+    },
+    {
+      "word": "More",
+      "count": 1
+    },
+    {
+      "word": "Forgot",
+      "count": 1
+    },
+    {
+      "word": "email ",
+      "count": 1
+    },
+    {
+      "word": "NEXT",
+      "count": 1
+    },
+    {
+      "word": "Back",
+      "count": 1
+    },
+    {
+      "word": "primary",
+      "count": 1
+    },
+    {
+      "word": "owner",
+      "count": 1
+    },
+    {
+      "word": "certain",
+      "count": 1
+    },
+    {
+      "word": "tourYOUR",
+      "count": 1
+    },
+    {
+      "word": "ACER",
+      "count": 1
+    },
+    {
+      "word": "CHROMEBOOK",
+      "count": 1
+    },
+    {
+      "word": "TOUR",
+      "count": 1
+    },
+    {
+      "word": "Now",
+      "count": 1
+    },
+    {
+      "word": "done",
+      "count": 1
+    },
+    {
+      "word": "setting",
+      "count": 1
+    },
+    {
+      "word": "let",
+      "count": 1
+    },
+    {
+      "word": "us",
+      "count": 1
+    },
+    {
+      "word": "around",
+      "count": 1
+    },
+    {
+      "word": "Microphone",
+      "count": 1
+    },
+    {
+      "word": "Internal",
+      "count": 1
+    },
+    {
+      "word": "microphones",
+      "count": 1
+    },
+    {
+      "word": "sound",
+      "count": 1
+    },
+    {
+      "word": "recording ",
+      "count": 1
+    },
+    {
+      "word": "Touchscreen",
+      "count": 1
+    },
+    {
+      "word": "Displays",
+      "count": 1
+    },
+    {
+      "word": "multi touch",
+      "count": 1
+    },
+    {
+      "word": "Webcam",
+      "count": 1
+    },
+    {
+      "word": "camera",
+      "count": 1
+    },
+    {
+      "word": "communication ",
+      "count": 1
+    },
+    {
+      "word": "indicates",
+      "count": 1
+    },
+    {
+      "word": "active ",
+      "count": 1
+    },
+    {
+      "word": "7Keyboard",
+      "count": 1
+    },
+    {
+      "word": "entering",
+      "count": 1
+    },
+    {
+      "word": "Speakers",
+      "count": 1
+    },
+    {
+      "word": "speakers",
+      "count": 1
+    },
+    {
+      "word": "deliver",
+      "count": 1
+    },
+    {
+      "word": "stereo",
+      "count": 1
+    },
+    {
+      "word": "click",
+      "count": 1
+    },
+    {
+      "word": "Touch sensitive",
+      "count": 1
+    },
+    {
+      "word": "pad",
+      "count": 1
+    },
+    {
+      "word": "combinations",
+      "count": 1
+    },
+    {
+      "word": "controls ",
+      "count": 1
+    },
+    {
+      "word": "brightness",
+      "count": 1
+    },
+    {
+      "word": "dedicated",
+      "count": 1
+    },
+    {
+      "word": "each",
+      "count": 1
+    },
+    {
+      "word": "function ",
+      "count": 1
+    },
+    {
+      "word": "Previous",
+      "count": 1
+    },
+    {
+      "word": "tourCommon",
+      "count": 1
+    },
+    {
+      "word": "complete",
+      "count": 1
+    },
+    {
+      "word": "tasks",
+      "count": 1
+    },
+    {
+      "word": "quickly ",
+      "count": 1
+    },
+    {
+      "word": "senses",
+      "count": 1
+    },
+    {
+      "word": "movement",
+      "count": 1
+    },
+    {
+      "word": "its",
+      "count": 1
+    },
+    {
+      "word": "surface ",
+      "count": 1
+    },
+    {
+      "word": "means",
+      "count": 1
+    },
+    {
+      "word": "cursor",
+      "count": 1
+    },
+    {
+      "word": "responds",
+      "count": 1
+    },
+    {
+      "word": "across",
+      "count": 1
+    },
+    {
+      "word": "surface",
+      "count": 1
+    },
+    {
+      "word": "Full screen",
+      "count": 1
+    },
+    {
+      "word": "full screen",
+      "count": 1
+    },
+    {
+      "word": "Switch",
+      "count": 1
+    },
+    {
+      "word": "window ",
+      "count": 1
+    },
+    {
+      "word": "Mute",
+      "count": 1
+    },
+    {
+      "word": "Turns",
+      "count": 1
+    },
+    {
+      "word": "off",
+      "count": 1
+    },
+    {
+      "word": "panel ",
+      "count": 1
+    },
+    {
+      "word": "Ctrl",
+      "count": 1
+    },
+    {
+      "word": "Takes",
+      "count": 1
+    },
+    {
+      "word": "screenshot ",
+      "count": 1
+    },
+    {
+      "word": "Toggles",
+      "count": 1
+    },
+    {
+      "word": "caps",
+      "count": 1
+    },
+    {
+      "word": "Projects",
+      "count": 1
+    },
+    {
+      "word": "Dims",
+      "count": 1
+    },
+    {
+      "word": "brightens",
+      "count": 1
+    },
+    {
+      "word": "backlight ",
+      "count": 1
+    },
+    {
+      "word": "Press",
+      "count": 1
+    },
+    {
+      "word": "part",
+      "count": 1
+    },
+    {
+      "word": "Two finger",
+      "count": 1
+    },
+    {
+      "word": "alt click ",
+      "count": 1
+    },
+    {
+      "word": "Tapping",
+      "count": 1
+    },
+    {
+      "word": "pressing",
+      "count": 1
+    },
+    {
+      "word": " and",
+      "count": 1
+    },
+    {
+      "word": "holding ",
+      "count": 1
+    },
+    {
+      "word": "tapping",
+      "count": 1
+    },
+    {
+      "word": "finger",
+      "count": 1
+    },
+    {
+      "word": "equal",
+      "count": 1
+    },
+    {
+      "word": " right click ",
+      "count": 1
+    },
+    {
+      "word": "9Two finger",
+      "count": 1
+    },
+    {
+      "word": "swipe",
+      "count": 1
+    },
+    {
+      "word": "vertically ",
+      "count": 1
+    },
+    {
+      "word": "horizontally ",
+      "count": 1
+    },
+    {
+      "word": "Drag",
+      "count": 1
+    },
+    {
+      "word": "item",
+      "count": 1
+    },
+    {
+      "word": "second",
+      "count": 1
+    },
+    {
+      "word": "Release",
+      "count": 1
+    },
+    {
+      "word": " This",
+      "count": 1
+    },
+    {
+      "word": "gesture",
+      "count": 1
+    },
+    {
+      "word": "windows",
+      "count": 1
+    },
+    {
+      "word": "icons  ",
+      "count": 1
+    },
+    {
+      "word": "tourLeft",
+      "count": 1
+    },
+    {
+      "word": "indicator",
+      "count": 1
+    },
+    {
+      "word": "Indicates",
+      "count": 1
+    },
+    {
+      "word": "status ",
+      "count": 1
+    },
+    {
+      "word": "Charging ",
+      "count": 1
+    },
+    {
+      "word": "amber",
+      "count": 1
+    },
+    {
+      "word": "Fully",
+      "count": 1
+    },
+    {
+      "word": "charged ",
+      "count": 1
+    },
+    {
+      "word": "blue",
+      "count": 1
+    },
+    {
+      "word": "AC",
+      "count": 1
+    },
+    {
+      "word": "MicroSD",
+      "count": 1
+    },
+    {
+      "word": "Insert",
+      "count": 1
+    },
+    {
+      "word": "microSD",
+      "count": 1
+    },
+    {
+      "word": "slot ",
+      "count": 1
+    },
+    {
+      "word": "Headset speaker",
+      "count": 1
+    },
+    {
+      "word": "jack",
+      "count": 1
+    },
+    {
+      "word": " e g  ",
+      "count": 1
+    },
+    {
+      "word": "speakers ",
+      "count": 1
+    },
+    {
+      "word": "headphones  ",
+      "count": 1
+    },
+    {
+      "word": "headset",
+      "count": 1
+    },
+    {
+      "word": "microphone ",
+      "count": 1
+    },
+    {
+      "word": "11Right",
+      "count": 1
+    },
+    {
+      "word": "Kensington",
+      "count": 1
+    },
+    {
+      "word": "lock",
+      "count": 1
+    },
+    {
+      "word": "Kensington ",
+      "count": 1
+    },
+    {
+      "word": "security",
+      "count": 1
+    },
+    {
+      "word": "ports",
+      "count": 1
+    },
+    {
+      "word": "blue ",
+      "count": 1
+    },
+    {
+      "word": "Compatible",
+      "count": 1
+    },
+    {
+      "word": "earlier",
+      "count": 1
+    },
+    {
+      "word": "3 0 certified",
+      "count": 1
+    },
+    {
+      "word": "Defined",
+      "count": 1
+    },
+    {
+      "word": "specification",
+      "count": 1
+    },
+    {
+      "word": " SuperSpeed",
+      "count": 1
+    },
+    {
+      "word": "USB  ",
+      "count": 1
+    },
+    {
+      "word": "3 1",
+      "count": 1
+    },
+    {
+      "word": "Gen",
+      "count": 1
+    },
+    {
+      "word": "transfer",
+      "count": 1
+    },
+    {
+      "word": "speeds",
+      "count": 1
+    },
+    {
+      "word": "Gbps ",
+      "count": 1
+    },
+    {
+      "word": "audio video",
+      "count": 1
+    },
+    {
+      "word": "Delivers",
+      "count": 1
+    },
+    {
+      "word": "V",
+      "count": 1
+    },
+    {
+      "word": "DC",
+      "count": 1
+    },
+    {
+      "word": "DC in ",
+      "count": 1
+    },
+    {
+      "word": "requires",
+      "count": 1
+    },
+    {
+      "word": "source",
+      "count": 1
+    },
+    {
+      "word": "providing",
+      "count": 1
+    },
+    {
+      "word": "45",
+      "count": 1
+    },
+    {
+      "word": "W",
+      "count": 1
+    },
+    {
+      "word": "12 18 20",
+      "count": 1
+    },
+    {
+      "word": "V ",
+      "count": 1
+    },
+    {
+      "word": "please",
+      "count": 1
+    },
+    {
+      "word": "certified",
+      "count": 1
+    },
+    {
+      "word": "Power",
+      "count": 1
+    },
+    {
+      "word": "Delivery",
+      "count": 1
+    },
+    {
+      "word": "DesktopTHE",
+      "count": 1
+    },
+    {
+      "word": "CHROME",
+      "count": 1
+    },
+    {
+      "word": "DESKTOP",
+      "count": 1
+    },
+    {
+      "word": "Goes",
+      "count": 1
+    },
+    {
+      "word": "Backward",
+      "count": 1
+    },
+    {
+      "word": "Forward",
+      "count": 1
+    },
+    {
+      "word": "browsing",
+      "count": 1
+    },
+    {
+      "word": "sessions s",
+      "count": 1
+    },
+    {
+      "word": "history",
+      "count": 1
+    },
+    {
+      "word": " closing",
+      "count": 1
+    },
+    {
+      "word": "reopening",
+      "count": 1
+    },
+    {
+      "word": "begins",
+      "count": 1
+    },
+    {
+      "word": "session  ",
+      "count": 1
+    },
+    {
+      "word": "Opens",
+      "count": 1
+    },
+    {
+      "word": "Type",
+      "count": 1
+    },
+    {
+      "word": "perform",
+      "count": 1
+    },
+    {
+      "word": " omnibox   ",
+      "count": 1
+    },
+    {
+      "word": "Minimizes",
+      "count": 1
+    },
+    {
+      "word": "13Shelf",
+      "count": 1
+    },
+    {
+      "word": "areaLauncher",
+      "count": 1
+    },
+    {
+      "word": "pinned",
+      "count": 1
+    },
+    {
+      "word": "launcher",
+      "count": 1
+    },
+    {
+      "word": "fastest",
+      "count": 1
+    },
+    {
+      "word": "something ",
+      "count": 1
+    },
+    {
+      "word": "bookmarks ",
+      "count": 1
+    },
+    {
+      "word": "items",
+      "count": 1
+    },
+    {
+      "word": "place",
+      "count": 1
+    },
+    {
+      "word": "Below",
+      "count": 1
+    },
+    {
+      "word": "frequently used",
+      "count": 1
+    },
+    {
+      "word": "installed ",
+      "count": 1
+    },
+    {
+      "word": "See",
+      "count": 1
+    },
+    {
+      "word": "Maximizes",
+      "count": 1
+    },
+    {
+      "word": "again",
+      "count": 1
+    },
+    {
+      "word": "return",
+      "count": 1
+    },
+    {
+      "word": "position ",
+      "count": 1
+    },
+    {
+      "word": "hold",
+      "count": 1
+    },
+    {
+      "word": "arrow",
+      "count": 1
+    },
+    {
+      "word": "These",
+      "count": 1
+    },
+    {
+      "word": "neatly",
+      "count": 1
+    },
+    {
+      "word": "align",
+      "count": 1
+    },
+    {
+      "word": "half",
+      "count": 1
+    },
+    {
+      "word": "side ",
+      "count": 1
+    },
+    {
+      "word": "respectively ",
+      "count": 1
+    },
+    {
+      "word": " tabs",
+      "count": 1
+    },
+    {
+      "word": "all  ",
+      "count": 1
+    },
+    {
+      "word": "Bookmark",
+      "count": 1
+    },
+    {
+      "word": "webpage",
+      "count": 1
+    },
+    {
+      "word": "links",
+      "count": 1
+    },
+    {
+      "word": "quick access",
+      "count": 1
+    },
+    {
+      "word": "called",
+      "count": 1
+    },
+    {
+      "word": " bookmarks",
+      "count": 1
+    },
+    {
+      "word": "bar  ",
+      "count": 1
+    },
+    {
+      "word": "bookmark",
+      "count": 1
+    },
+    {
+      "word": "link",
+      "count": 1
+    },
+    {
+      "word": "currrent",
+      "count": 1
+    },
+    {
+      "word": "customize",
+      "count": 1
+    },
+    {
+      "word": "Specifications",
+      "count": 1
+    },
+    {
+      "word": "vary ",
+      "count": 1
+    },
+    {
+      "word": "icons",
+      "count": 1
+    },
+    {
+      "word": "applicable",
+      "count": 1
+    },
+    {
+      "word": "DesktopStatus",
+      "count": 1
+    },
+    {
+      "word": "vital",
+      "count": 1
+    },
+    {
+      "word": "glance ",
+      "count": 1
+    },
+    {
+      "word": "Wi Fi",
+      "count": 1
+    },
+    {
+      "word": "signal",
+      "count": 1
+    },
+    {
+      "word": "strength ",
+      "count": 1
+    },
+    {
+      "word": "life ",
+      "count": 1
+    },
+    {
+      "word": "Tap",
+      "count": 1
+    },
+    {
+      "word": "Shut",
+      "count": 1
+    },
+    {
+      "word": "Lock",
+      "count": 1
+    },
+    {
+      "word": "Wireless",
+      "count": 1
+    },
+    {
+      "word": "connection",
+      "count": 1
+    },
+    {
+      "word": "Bluetooth",
+      "count": 1
+    },
+    {
+      "word": "15APPS",
+      "count": 1
+    },
+    {
+      "word": "EXTENSIONS",
+      "count": 1
+    },
+    {
+      "word": "enhance",
+      "count": 1
+    },
+    {
+      "word": "applications",
+      "count": 1
+    },
+    {
+      "word": " Chrome",
+      "count": 1
+    },
+    {
+      "word": "short  ",
+      "count": 1
+    },
+    {
+      "word": "extensions ",
+      "count": 1
+    },
+    {
+      "word": "apps  ",
+      "count": 1
+    },
+    {
+      "word": "regular",
+      "count": 1
+    },
+    {
+      "word": "computers ",
+      "count": 1
+    },
+    {
+      "word": "except",
+      "count": 1
+    },
+    {
+      "word": "run",
+      "count": 1
+    },
+    {
+      "word": "entirely",
+      "count": 1
+    },
+    {
+      "word": "Extensions",
+      "count": 1
+    },
+    {
+      "word": "provide",
+      "count": 1
+    },
+    {
+      "word": "custom",
+      "count": 1
+    },
+    {
+      "word": "functionality",
+      "count": 1
+    },
+    {
+      "word": "mobile",
+      "count": 1
+    },
+    {
+      "word": "supported",
+      "count": 1
+    },
+    {
+      "word": "Chromebooks ",
+      "count": 1
+    },
+    {
+      "word": " Web",
+      "count": 1
+    },
+    {
+      "word": "column",
+      "count": 1
+    },
+    {
+      "word": "add ",
+      "count": 1
+    },
+    {
+      "word": "6 A",
+      "count": 1
+    },
+    {
+      "word": "verification",
+      "count": 1
+    },
+    {
+      "word": "pop",
+      "count": 1
+    },
+    {
+      "word": "Cancel ",
+      "count": 1
+    },
+    {
+      "word": "Certain",
+      "count": 1
+    },
+    {
+      "word": "design",
+      "count": 1
+    },
+    {
+      "word": "vary",
+      "count": 1
+    },
+    {
+      "word": "region ",
+      "count": 1
+    },
+    {
+      "word": "Updates",
+      "count": 1
+    },
+    {
+      "word": "navigate",
+      "count": 1
+    },
+    {
+      "word": "extensionsInstalling",
+      "count": 1
+    },
+    {
+      "word": "category",
+      "count": 1
+    },
+    {
+      "word": "keyword ",
+      "count": 1
+    },
+    {
+      "word": "6 Select",
+      "count": 1
+    },
+    {
+      "word": "INSTALL",
+      "count": 1
+    },
+    {
+      "word": "Downloaded",
+      "count": 1
+    },
+    {
+      "word": "3 Two finger",
+      "count": 1
+    },
+    {
+      "word": "remove ",
+      "count": 1
+    },
+    {
+      "word": "Uninstall ",
+      "count": 1
+    },
+    {
+      "word": "3 Locate",
+      "count": 1
+    },
+    {
+      "word": "reorder",
+      "count": 1
+    },
+    {
+      "word": "drag",
+      "count": 1
+    },
+    {
+      "word": "around ",
+      "count": 1
+    },
+    {
+      "word": "1 Locate",
+      "count": 1
+    },
+    {
+      "word": "Unpin ",
+      "count": 1
+    },
+    {
+      "word": "uninstalled ",
+      "count": 1
+    },
+    {
+      "word": "17Google",
+      "count": 1
+    },
+    {
+      "word": "offered",
+      "count": 1
+    },
+    {
+      "word": "onboard",
+      "count": 1
+    },
+    {
+      "word": "Because",
+      "count": 1
+    },
+    {
+      "word": "heavy",
+      "count": 1
+    },
+    {
+      "word": "easily",
+      "count": 1
+    },
+    {
+      "word": "shortcut",
+      "count": 1
+    },
+    {
+      "word": " Alt ",
+      "count": 1
+    },
+    {
+      "word": " Shift ",
+      "count": 1
+    },
+    {
+      "word": " M  ",
+      "count": 1
+    },
+    {
+      "word": "user",
+      "count": 1
+    },
+    {
+      "word": "interchangeably",
+      "count": 1
+    },
+    {
+      "word": "giving",
+      "count": 1
+    },
+    {
+      "word": "instructions",
+      "count": 1
+    },
+    {
+      "word": "regarding",
+      "count": 1
+    },
+    {
+      "word": "accessing",
+      "count": 1
+    },
+    {
+      "word": "1 From",
+      "count": 1
+    },
+    {
+      "word": "NEW",
+      "count": 1
+    },
+    {
+      "word": "Internet",
+      "count": 1
+    },
+    {
+      "word": "operations ",
+      "count": 1
+    },
+    {
+      "word": "21 ",
+      "count": 1
+    },
+    {
+      "word": "extensions3 Select",
+      "count": 1
+    },
+    {
+      "word": "5 Drag and drop",
+      "count": 1
+    },
+    {
+      "word": "but",
+      "count": 1
+    },
+    {
+      "word": "file s ",
+      "count": 1
+    },
+    {
+      "word": "195 Two finger",
+      "count": 1
+    },
+    {
+      "word": "bring",
+      "count": 1
+    },
+    {
+      "word": "context",
+      "count": 1
+    },
+    {
+      "word": "sensitive",
+      "count": 1
+    },
+    {
+      "word": "Available",
+      "count": 1
+    },
+    {
+      "word": " Gmail   ",
+      "count": 1
+    },
+    {
+      "word": "COMPOSE ",
+      "count": 1
+    },
+    {
+      "word": "4 Enter",
+      "count": 1
+    },
+    {
+      "word": "recipient s",
+      "count": 1
+    },
+    {
+      "word": "subject ",
+      "count": 1
+    },
+    {
+      "word": "finished",
+      "count": 1
+    },
+    {
+      "word": "composing",
+      "count": 1
+    },
+    {
+      "word": "Send ",
+      "count": 1
+    },
+    {
+      "word": "video sharing",
+      "count": 1
+    },
+    {
+      "word": "website",
+      "count": 1
+    },
+    {
+      "word": " YouTube   ",
+      "count": 1
+    },
+    {
+      "word": "media",
+      "count": 1
+    },
+    {
+      "word": "player",
+      "count": 1
+    },
+    {
+      "word": "file ",
+      "count": 1
+    },
+    {
+      "word": "double click",
+      "count": 1
+    },
+    {
+      "word": "Types",
+      "count": 1
+    },
+    {
+      "word": "number",
+      "count": 1
+    },
+    {
+      "word": "formats ",
+      "count": 1
+    },
+    {
+      "word": "Media",
+      "count": 1
+    },
+    {
+      "word": "Audio",
+      "count": 1
+    },
+    {
+      "word": "Video",
+      "count": 1
+    },
+    {
+      "word": " 3gp ",
+      "count": 1
+    },
+    {
+      "word": " avi ",
+      "count": 1
+    },
+    {
+      "word": " mov ",
+      "count": 1
+    },
+    {
+      "word": " mp4 ",
+      "count": 1
+    },
+    {
+      "word": " m4v ",
+      "count": 1
+    },
+    {
+      "word": " m4a ",
+      "count": 1
+    },
+    {
+      "word": " mp3 ",
+      "count": 1
+    },
+    {
+      "word": " mkv ",
+      "count": 1
+    },
+    {
+      "word": " ogv ",
+      "count": 1
+    },
+    {
+      "word": " ogm ",
+      "count": 1
+    },
+    {
+      "word": " ogg ",
+      "count": 1
+    },
+    {
+      "word": " oga ",
+      "count": 1
+    },
+    {
+      "word": " webm ",
+      "count": 1
+    },
+    {
+      "word": " wav",
+      "count": 1
+    },
+    {
+      "word": " doc ",
+      "count": 1
+    },
+    {
+      "word": " docx ",
+      "count": 1
+    },
+    {
+      "word": " xls ",
+      "count": 1
+    },
+    {
+      "word": " xlsx ",
+      "count": 1
+    },
+    {
+      "word": " ppt",
+      "count": 1
+    },
+    {
+      "word": " read only  ",
+      "count": 1
+    },
+    {
+      "word": " pptx",
+      "count": 1
+    },
+    {
+      "word": " read ",
+      "count": 1
+    },
+    {
+      "word": "only ",
+      "count": 1
+    },
+    {
+      "word": " bmp ",
+      "count": 1
+    },
+    {
+      "word": " gif ",
+      "count": 1
+    },
+    {
+      "word": " jpg ",
+      "count": 1
+    },
+    {
+      "word": " jpeg ",
+      "count": 1
+    },
+    {
+      "word": " png ",
+      "count": 1
+    },
+    {
+      "word": " webp",
+      "count": 1
+    },
+    {
+      "word": "20",
+      "count": 1
+    },
+    {
+      "word": "extensionsCompressed",
+      "count": 1
+    },
+    {
+      "word": " zip ",
+      "count": 1
+    },
+    {
+      "word": " rar",
+      "count": 1
+    },
+    {
+      "word": " txt ",
+      "count": 1
+    },
+    {
+      "word": " pdf",
+      "count": 1
+    },
+    {
+      "word": " read only ",
+      "count": 1
+    },
+    {
+      "word": "21CHROME",
+      "count": 1
+    },
+    {
+      "word": "TIPS",
+      "count": 1
+    },
+    {
+      "word": "AND",
+      "count": 1
+    },
+    {
+      "word": "TRICKS",
+      "count": 1
+    },
+    {
+      "word": "somewhat",
+      "count": 1
+    },
+    {
+      "word": "differently",
+      "count": 1
+    },
+    {
+      "word": "used",
+      "count": 1
+    },
+    {
+      "word": "to ",
+      "count": 1
+    },
+    {
+      "word": "easy",
+      "count": 1
+    },
+    {
+      "word": "things",
+      "count": 1
+    },
+    {
+      "word": "Here",
+      "count": 1
+    },
+    {
+      "word": "tricks ",
+      "count": 1
+    },
+    {
+      "word": "Documents",
+      "count": 1
+    },
+    {
+      "word": "Docs  ",
+      "count": 1
+    },
+    {
+      "word": "Sheets  ",
+      "count": 1
+    },
+    {
+      "word": "depending",
+      "count": 1
+    },
+    {
+      "word": "word",
+      "count": 1
+    },
+    {
+      "word": "processing",
+      "count": 1
+    },
+    {
+      "word": "spreadsheets",
+      "count": 1
+    },
+    {
+      "word": "presentations",
+      "count": 1
+    },
+    {
+      "word": "Docs",
+      "count": 1
+    },
+    {
+      "word": "That s",
+      "count": 1
+    },
+    {
+      "word": "You ve",
+      "count": 1
+    },
+    {
+      "word": "seconds ",
+      "count": 1
+    },
+    {
+      "word": "text ",
+      "count": 1
+    },
+    {
+      "word": "insert",
+      "count": 1
+    },
+    {
+      "word": "images ",
+      "count": 1
+    },
+    {
+      "word": "font ",
+      "count": 1
+    },
+    {
+      "word": "bold ",
+      "count": 1
+    },
+    {
+      "word": "underline",
+      "count": 1
+    },
+    {
+      "word": "italicize",
+      "count": 1
+    },
+    {
+      "word": "gist ",
+      "count": 1
+    },
+    {
+      "word": "Most",
+      "count": 1
+    },
+    {
+      "word": "formatting",
+      "count": 1
+    },
+    {
+      "word": "stuff",
+      "count": 1
+    },
+    {
+      "word": "familiar",
+      "count": 1
+    },
+    {
+      "word": "productivity",
+      "count": 1
+    },
+    {
+      "word": "suites",
+      "count": 1
+    },
+    {
+      "word": "17 ",
+      "count": 1
+    },
+    {
+      "word": "tricksFinding",
+      "count": 1
+    },
+    {
+      "word": "sub folder",
+      "count": 1
+    },
+    {
+      "word": "Since",
+      "count": 1
+    },
+    {
+      "word": "internet connected",
+      "count": 1
+    },
+    {
+      "word": "1 Open",
+      "count": 1
+    },
+    {
+      "word": "2 ",
+      "count": 1
+    },
+    {
+      "word": "browser s",
+      "count": 1
+    },
+    {
+      "word": "bar ",
+      "count": 1
+    },
+    {
+      "word": " drive google com ",
+      "count": 1
+    },
+    {
+      "word": " this",
+      "count": 1
+    },
+    {
+      "word": "address  ",
+      "count": 1
+    },
+    {
+      "word": "3 Login",
+      "count": 1
+    },
+    {
+      "word": "password ",
+      "count": 1
+    },
+    {
+      "word": "Share",
+      "count": 1
+    },
+    {
+      "word": "upper",
+      "count": 1
+    },
+    {
+      "word": "2 Add",
+      "count": 1
+    },
+    {
+      "word": "people",
+      "count": 1
+    },
+    {
+      "word": "their",
+      "count": 1
+    },
+    {
+      "word": "sharing",
+      "count": 1
+    },
+    {
+      "word": "contacts ",
+      "count": 1
+    },
+    {
+      "word": "contacts",
+      "count": 1
+    },
+    {
+      "word": "quickly",
+      "count": 1
+    },
+    {
+      "word": "select ",
+      "count": 1
+    },
+    {
+      "word": "3 After",
+      "count": 1
+    },
+    {
+      "word": "Done",
+      "count": 1
+    },
+    {
+      "word": "they ll",
+      "count": 1
+    },
+    {
+      "word": "letting",
+      "count": 1
+    },
+    {
+      "word": "been",
+      "count": 1
+    },
+    {
+      "word": "Skype",
+      "count": 1
+    },
+    {
+      "word": "there ",
+      "count": 1
+    },
+    {
+      "word": "chats",
+      "count": 1
+    },
+    {
+      "word": "ten",
+      "count": 1
+    },
+    {
+      "word": "people ",
+      "count": 1
+    },
+    {
+      "word": "call ",
+      "count": 1
+    },
+    {
+      "word": " Hangouts   ",
+      "count": 1
+    },
+    {
+      "word": "233 Select",
+      "count": 1
+    },
+    {
+      "word": "call",
+      "count": 1
+    },
+    {
+      "word": "4 Type",
+      "count": 1
+    },
+    {
+      "word": "person ",
+      "count": 1
+    },
+    {
+      "word": "Invite",
+      "count": 1
+    },
+    {
+      "word": "Hangouts ",
+      "count": 1
+    },
+    {
+      "word": "music",
+      "count": 1
+    },
+    {
+      "word": "Music   ",
+      "count": 1
+    },
+    {
+      "word": "music ",
+      "count": 1
+    },
+    {
+      "word": "Pandora ",
+      "count": 1
+    },
+    {
+      "word": "Spotify ",
+      "count": 1
+    },
+    {
+      "word": "Rdio ",
+      "count": 1
+    },
+    {
+      "word": "Deezer",
+      "count": 1
+    },
+    {
+      "word": "a Select",
+      "count": 1
+    },
+    {
+      "word": "vast",
+      "count": 1
+    },
+    {
+      "word": "amount",
+      "count": 1
+    },
+    {
+      "word": "user uploaded",
+      "count": 1
+    },
+    {
+      "word": "videos",
+      "count": 1
+    },
+    {
+      "word": "covering",
+      "count": 1
+    },
+    {
+      "word": "nearly",
+      "count": 1
+    },
+    {
+      "word": "everything",
+      "count": 1
+    },
+    {
+      "word": "imaginable ",
+      "count": 1
+    },
+    {
+      "word": "b Select",
+      "count": 1
+    },
+    {
+      "word": "TV",
+      "count": 1
+    },
+    {
+      "word": "love ",
+      "count": 1
+    },
+    {
+      "word": "c ",
+      "count": 1
+    },
+    {
+      "word": "Netflix ",
+      "count": 1
+    },
+    {
+      "word": "Flixster ",
+      "count": 1
+    },
+    {
+      "word": "country  ",
+      "count": 1
+    },
+    {
+      "word": " Netflix ",
+      "count": 1
+    },
+    {
+      "word": "tricksWorking",
+      "count": 1
+    },
+    {
+      "word": "opens",
+      "count": 1
+    },
+    {
+      "word": "limited",
+      "count": 1
+    },
+    {
+      "word": "editing",
+      "count": 1
+    },
+    {
+      "word": "Save",
+      "count": 1
+    },
+    {
+      "word": " format",
+      "count": 1
+    },
+    {
+      "word": "depends",
+      "count": 1
+    },
+    {
+      "word": "document  ",
+      "count": 1
+    },
+    {
+      "word": " Docs   ",
+      "count": 1
+    },
+    {
+      "word": " depending",
+      "count": 1
+    },
+    {
+      "word": "create  ",
+      "count": 1
+    },
+    {
+      "word": "254 After",
+      "count": 1
+    },
+    {
+      "word": "content",
+      "count": 1
+    },
+    {
+      "word": "Download",
+      "count": 1
+    },
+    {
+      "word": "as ",
+      "count": 1
+    },
+    {
+      "word": "5 The",
+      "count": 1
+    },
+    {
+      "word": "section",
+      "count": 1
+    },
+    {
+      "word": "Another",
+      "count": 1
+    },
+    {
+      "word": "tools ",
+      "count": 1
+    },
+    {
+      "word": "Word",
+      "count": 1
+    },
+    {
+      "word": "Excel",
+      "count": 1
+    },
+    {
+      "word": "PowerPoint",
+      "count": 1
+    },
+    {
+      "word": " you ll",
+      "count": 1
+    },
+    {
+      "word": "one  ",
+      "count": 1
+    },
+    {
+      "word": "login",
+      "count": 1
+    },
+    {
+      "word": "15  ",
+      "count": 1
+    },
+    {
+      "word": "You re",
+      "count": 1
+    },
+    {
+      "word": "filter",
+      "count": 1
+    },
+    {
+      "word": "Runs",
+      "count": 1
+    },
+    {
+      "word": "checkbox ",
+      "count": 1
+    },
+    {
+      "word": "these",
+      "count": 1
+    },
+    {
+      "word": "stay",
+      "count": 1
+    },
+    {
+      "word": "productive",
+      "count": 1
+    },
+    {
+      "word": "entertained ",
+      "count": 1
+    },
+    {
+      "word": "pre installed",
+      "count": 1
+    },
+    {
+      "word": "described",
+      "count": 1
+    },
+    {
+      "word": "below ",
+      "count": 1
+    },
+    {
+      "word": "exclusively",
+      "count": 1
+    },
+    {
+      "word": "Micrsoft s",
+      "count": 1
+    },
+    {
+      "word": "cloud",
+      "count": 1
+    },
+    {
+      "word": "storage ",
+      "count": 1
+    },
+    {
+      "word": "Though",
+      "count": 1
+    },
+    {
+      "word": "removable",
+      "count": 1
+    },
+    {
+      "word": "directly",
+      "count": 1
+    },
+    {
+      "word": "locations ",
+      "count": 1
+    },
+    {
+      "word": "created ",
+      "count": 1
+    },
+    {
+      "word": "within",
+      "count": 1
+    },
+    {
+      "word": "whichever",
+      "count": 1
+    },
+    {
+      "word": " you",
+      "count": 1
+    },
+    {
+      "word": "well  ",
+      "count": 1
+    },
+    {
+      "word": "tricksGmail",
+      "count": 1
+    },
+    {
+      "word": " Gmail",
+      "count": 1
+    },
+    {
+      "word": "Offline   ",
+      "count": 1
+    },
+    {
+      "word": "4 Use",
+      "count": 1
+    },
+    {
+      "word": "would ",
+      "count": 1
+    },
+    {
+      "word": "It ll",
+      "count": 1
+    },
+    {
+      "word": "emails",
+      "count": 1
+    },
+    {
+      "word": "4 Open",
+      "count": 1
+    },
+    {
+      "word": "17  ",
+      "count": 1
+    },
+    {
+      "word": "Notice",
+      "count": 1
+    },
+    {
+      "word": "displays",
+      "count": 1
+    },
+    {
+      "word": "reminding",
+      "count": 1
+    },
+    {
+      "word": "MUST",
+      "count": 1
+    },
+    {
+      "word": "viewing ",
+      "count": 1
+    },
+    {
+      "word": "Any",
+      "count": 1
+    },
+    {
+      "word": "seen",
+      "count": 1
+    },
+    {
+      "word": "another",
+      "count": 1
+    },
+    {
+      "word": "reflected",
+      "count": 1
+    },
+    {
+      "word": "275 Make",
+      "count": 1
+    },
+    {
+      "word": "can t",
+      "count": 1
+    },
+    {
+      "word": "every",
+      "count": 1
+    },
+    {
+      "word": "18 ",
+      "count": 1
+    },
+    {
+      "word": "else",
+      "count": 1
+    },
+    {
+      "word": "else  ",
+      "count": 1
+    },
+    {
+      "word": "merge",
+      "count": 1
+    },
+    {
+      "word": "person s",
+      "count": 1
+    },
+    {
+      "word": "SettingsSETTINGS",
+      "count": 1
+    },
+    {
+      "word": "adjust",
+      "count": 1
+    },
+    {
+      "word": "various",
+      "count": 1
+    },
+    {
+      "word": "3 To",
+      "count": 1
+    },
+    {
+      "word": "advanced",
+      "count": 1
+    },
+    {
+      "word": "bottom",
+      "count": 1
+    },
+    {
+      "word": "4 Scroll",
+      "count": 1
+    },
+    {
+      "word": "Language",
+      "count": 1
+    },
+    {
+      "word": "Languages",
+      "count": 1
+    },
+    {
+      "word": "languages",
+      "count": 1
+    },
+    {
+      "word": "languages ",
+      "count": 1
+    },
+    {
+      "word": "6 To",
+      "count": 1
+    },
+    {
+      "word": "under",
+      "count": 1
+    },
+    {
+      "word": "Input",
+      "count": 1
+    },
+    {
+      "word": "Method",
+      "count": 1
+    },
+    {
+      "word": "checkbox",
+      "count": 1
+    },
+    {
+      "word": "method ",
+      "count": 1
+    },
+    {
+      "word": "7 Select",
+      "count": 1
+    },
+    {
+      "word": "finished ",
+      "count": 1
+    },
+    {
+      "word": "Using",
+      "count": 1
+    },
+    {
+      "word": "hibernate",
+      "count": 1
+    },
+    {
+      "word": "after",
+      "count": 1
+    },
+    {
+      "word": "hour ",
+      "count": 1
+    },
+    {
+      "word": "29Changing",
+      "count": 1
+    },
+    {
+      "word": "date",
+      "count": 1
+    },
+    {
+      "word": "incorrect",
+      "count": 1
+    },
+    {
+      "word": "adjusting",
+      "count": 1
+    },
+    {
+      "word": "Wallpaper ",
+      "count": 1
+    },
+    {
+      "word": "preloaded",
+      "count": 1
+    },
+    {
+      "word": "Custom ",
+      "count": 1
+    },
+    {
+      "word": "plus",
+      "count": 1
+    },
+    {
+      "word": "sign ",
+      "count": 1
+    },
+    {
+      "word": "Choose",
+      "count": 1
+    },
+    {
+      "word": "image ",
+      "count": 1
+    },
+    {
+      "word": "5 Once",
+      "count": 1
+    },
+    {
+      "word": "selected ",
+      "count": 1
+    },
+    {
+      "word": "OPEN ",
+      "count": 1
+    },
+    {
+      "word": "Surprise",
+      "count": 1
+    },
+    {
+      "word": "Me",
+      "count": 1
+    },
+    {
+      "word": "randomly ",
+      "count": 1
+    },
+    {
+      "word": "Browser",
+      "count": 1
+    },
+    {
+      "word": "themes ",
+      "count": 1
+    },
+    {
+      "word": "4 You ll",
+      "count": 1
+    },
+    {
+      "word": "taken",
+      "count": 1
+    },
+    {
+      "word": "resources",
+      "count": 1
+    },
+    {
+      "word": "Settings5 Once",
+      "count": 1
+    },
+    {
+      "word": "you d",
+      "count": 1
+    },
+    {
+      "word": "out ",
+      "count": 1
+    },
+    {
+      "word": "print",
+      "count": 1
+    },
+    {
+      "word": "requests",
+      "count": 1
+    },
+    {
+      "word": "many",
+      "count": 1
+    },
+    {
+      "word": "traditional",
+      "count": 1
+    },
+    {
+      "word": "cabled",
+      "count": 1
+    },
+    {
+      "word": "wireless",
+      "count": 1
+    },
+    {
+      "word": " cloud",
+      "count": 1
+    },
+    {
+      "word": "ready ",
+      "count": 1
+    },
+    {
+      "word": "printers ",
+      "count": 1
+    },
+    {
+      "word": "however ",
+      "count": 1
+    },
+    {
+      "word": "printers",
+      "count": 1
+    },
+    {
+      "word": "supported ",
+      "count": 1
+    },
+    {
+      "word": "learn",
+      "count": 1
+    },
+    {
+      "word": "printer ",
+      "count": 1
+    },
+    {
+      "word": "comprehensive",
+      "count": 1
+    },
+    {
+      "word": "topic ",
+      "count": 1
+    },
+    {
+      "word": "Printing ",
+      "count": 1
+    },
+    {
+      "word": "Each",
+      "count": 1
+    },
+    {
+      "word": "turn",
+      "count": 1
+    },
+    {
+      "word": "checks",
+      "count": 1
+    },
+    {
+      "word": "When",
+      "count": 1
+    },
+    {
+      "word": "area ",
+      "count": 1
+    },
+    {
+      "word": "Restart",
+      "count": 1
+    },
+    {
+      "word": "3 Your",
+      "count": 1
+    },
+    {
+      "word": "shutdown",
+      "count": 1
+    },
+    {
+      "word": "restart ",
+      "count": 1
+    },
+    {
+      "word": "applied ",
+      "count": 1
+    },
+    {
+      "word": "31Manual",
+      "count": 1
+    },
+    {
+      "word": "manually",
+      "count": 1
+    },
+    {
+      "word": "using ",
+      "count": 1
+    },
+    {
+      "word": "About",
+      "count": 1
+    },
+    {
+      "word": "top",
+      "count": 1
+    },
+    {
+      "word": "corner ",
+      "count": 1
+    },
+    {
+      "word": "dialog",
+      "count": 1
+    },
+    {
+      "word": "opens ",
+      "count": 1
+    },
+    {
+      "word": "CHECK",
+      "count": 1
+    },
+    {
+      "word": "FOR",
+      "count": 1
+    },
+    {
+      "word": "UPDATES ",
+      "count": 1
+    },
+    {
+      "word": "updates",
+      "count": 1
+    },
+    {
+      "word": "displayed",
+      "count": 1
+    },
+    {
+      "word": "There",
+      "count": 1
+    },
+    {
+      "word": "reset",
+      "count": 1
+    },
+    {
+      "word": "removing",
+      "count": 1
+    },
+    {
+      "word": "personal",
+      "count": 1
+    },
+    {
+      "word": "settings  ",
+      "count": 1
+    },
+    {
+      "word": "Completely",
+      "count": 1
+    },
+    {
+      "word": " Powerwashing  ",
+      "count": 1
+    },
+    {
+      "word": "basically",
+      "count": 1
+    },
+    {
+      "word": "factory",
+      "count": 1
+    },
+    {
+      "word": "powerwashing ",
+      "count": 1
+    },
+    {
+      "word": "look",
+      "count": 1
+    },
+    {
+      "word": "did",
+      "count": 1
+    },
+    {
+      "word": " including",
+      "count": 1
+    },
+    {
+      "word": "came",
+      "count": 1
+    },
+    {
+      "word": "pre installed  ",
+      "count": 1
+    },
+    {
+      "word": "powerwash",
+      "count": 1
+    },
+    {
+      "word": "Do",
+      "count": 1
+    },
+    {
+      "word": "modify",
+      "count": 1
+    },
+    {
+      "word": "Chromebook s",
+      "count": 1
+    },
+    {
+      "word": "yourself ",
+      "count": 1
+    },
+    {
+      "word": "Doing",
+      "count": 1
+    },
+    {
+      "word": "cause",
+      "count": 1
+    },
+    {
+      "word": "longer",
+      "count": 1
+    },
+    {
+      "word": "work ",
+      "count": 1
+    },
+    {
+      "word": "Please",
+      "count": 1
+    },
+    {
+      "word": "touch",
+      "count": 1
+    },
+    {
+      "word": "dealer",
+      "count": 1
+    },
+    {
+      "word": "center ",
+      "count": 1
+    },
+    {
+      "word": "Visit",
+      "count": 1
+    },
+    {
+      "word": "site ",
+      "count": 1
+    },
+    {
+      "word": "Powerwashing",
+      "count": 1
+    },
+    {
+      "word": "remove",
+      "count": 1
+    },
+    {
+      "word": "drive ",
+      "count": 1
+    },
+    {
+      "word": "Backup",
+      "count": 1
+    },
+    {
+      "word": "moving",
+      "count": 1
+    },
+    {
+      "word": "waiting",
+      "count": 1
+    },
+    {
+      "word": "sync ",
+      "count": 1
+    },
+    {
+      "word": "32",
+      "count": 1
+    },
+    {
+      "word": "Settings4 ",
+      "count": 1
+    },
+    {
+      "word": "Reset",
+      "count": 1
+    },
+    {
+      "word": "Powerwash ",
+      "count": 1
+    },
+    {
+      "word": "RESTART ",
+      "count": 1
+    },
+    {
+      "word": "HELP",
+      "count": 1
+    },
+    {
+      "word": "Additional",
+      "count": 1
+    },
+    {
+      "word": "doesn t",
+      "count": 1
+    },
+    {
+      "word": "covers",
+      "count": 1
+    },
+    {
+      "word": "basic",
+      "count": 1
+    },
+    {
+      "word": "troubleshooting",
+      "count": 1
+    },
+    {
+      "word": "detailed",
+      "count": 1
+    },
+    {
+      "word": "Alternatively ",
+      "count": 1
+    },
+    {
+      "word": "question",
+      "count": 1
+    },
+    {
+      "word": "mark",
+      "count": 1
+    },
+    {
+      "word": "sections",
+      "count": 1
+    },
+    {
+      "word": "links ",
+      "count": 1
+    }
+  ],
+  "_class": "com.arnab.pdf_word_count.models.WordCountModel"
+}
