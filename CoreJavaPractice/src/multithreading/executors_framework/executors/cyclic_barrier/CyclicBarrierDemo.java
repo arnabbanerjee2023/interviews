@@ -15,42 +15,49 @@
  * OF THE USE OF THIS PROGRAM, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-package multithreading.executors_framework.executors.countdown_latch;
+package multithreading.executors_framework.executors.cyclic_barrier;
 
 import java.util.concurrent.Callable;
-import java.util.concurrent.ExecutionException;
+import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
 
-/**
- * Generic implementation without CountDownLatch.
- */
-public class Main {
+public class CyclicBarrierDemo {
     public static void main(String[] args) {
-        ExecutorService executorService = Executors.newFixedThreadPool(3);
+        int numberOfServices = 3;
+
+        ExecutorService executorService = Executors.newFixedThreadPool(numberOfServices);
+        CyclicBarrier cyclicBarrier = new CyclicBarrier(numberOfServices);
 
         Callable<String> callable = () -> {
             System.out.println("Thread: " + Thread.currentThread().getName() + " is running and service is started.");
+            System.out.println("Thread: " + Thread.currentThread().getName() + " is waiting at the barrier.");
             Thread.sleep(2000);
+            cyclicBarrier.await();
             return "OK";
         };
 
-        Future<String> future1 = executorService.submit(callable);
-        Future<String> future2 = executorService.submit(callable);
-        Future<String> future3 = executorService.submit(callable);
-
-        try {
-            System.out.println(future1.get());
-            System.out.println(future2.get());
-            System.out.println(future3.get());
-        } catch (InterruptedException | ExecutionException e) {
-            throw new RuntimeException(e);
-        }
-
-        System.out.println("All dependent tasks are completed.");
+        executorService.submit(callable);
+        executorService.submit(callable);
+        executorService.submit(callable);
 
         executorService.shutdown();
-
+        System.out.println(Thread.currentThread().getName());
     }
 }
+
+/*class DependentTask implements Callable<String> {
+
+    private final CountDownLatch countDownLatch;
+
+    public DependentTask(CountDownLatch countDownLatch) {
+        this.countDownLatch = countDownLatch;
+    }
+
+    @Override
+    public String call() throws Exception {
+        System.out.println("Thread: " + Thread.currentThread().getName() + " is running and service is started.");
+        Thread.sleep(2000);
+        return "OK";
+    }
+}*/
