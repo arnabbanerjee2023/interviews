@@ -1,0 +1,26 @@
+package com.arnab.spring.spring_cloud_demo_app_one;
+
+import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping(value = "/base")
+public class MyController {
+    private static final Logger LOG = LoggerFactory.getLogger(MyController.class.getName());
+
+    @GetMapping(value = "/one")
+    @CircuitBreaker(name = "cb-one", fallbackMethod = "fallbackOne")
+    public String api() {
+        LOG.info("ARNAB: Hello World from App ONE!!");
+        return "Hello World from App ONE!!";
+    }
+
+    public String fallbackOne(Throwable t) {
+        LOG.info("ARNAB: Falbback ONE!!");
+        return "Fallback ONE!!";
+    }
+}

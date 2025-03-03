@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: spring-cloud-demo-app-one
+
+resilience4j:
+  circuitbreaker:
+    instances:
+      #default:
+      cb-one:
+        failure-rate-threshold: 50
+        minimum-number-of-calls: 5
+        wait-duration-in-open-state: 5s
+        slow-call-duration-threshold: 1s
+        automatic-transition-from-open-to-half-open-enabled: true
+        permitted-number-of-calls-in-half-open-state: 3
+        sliding-window-size: 10
+        sliding-window-type: count_based
