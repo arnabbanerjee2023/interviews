@@ -1,12 +1,14 @@
 package com.arnab.spring.spring_cloud_demo_client;
 
+import io.github.resilience4j.circuitbreaker.CircuitBreakerConfig;
+import io.github.resilience4j.circuitbreaker.CircuitBreakerRegistry;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -21,30 +23,40 @@ public class MyController {
     private RestTemplate restTemplate;
 
     @Autowired
-    private DiscoveryClient discoveryClient;
+    private CircuitBreakerRegistry circuitBreakerRegistry;
+
+    /*@GetMapping(value = "/client")
+    public String hello() throws Exception {
+        return circuitBreakerRegistry.circuitBreaker("cb-client-app-one").executeCallable(this::appOne)
+                + " " +
+                circuitBreakerRegistry.circuitBreaker("cb-client-app-two").executeCallable(this::appTwo);
+    }*/
 
     @GetMapping(value = "/client")
-    @CircuitBreaker(name = "cb-client", fallbackMethod = "fallbackClient")
-    public String hello() {
-        String uri1Client = discoveryClient.getInstances("SPRING-CLOUD-DEMO-APP-ONE")
-                .get(0)
-                .getUri()
-                .toString() + "/base/one";
-
-        String uri2Client = discoveryClient.getInstances("SPRING-CLOUD-DEMO-APP-TWO")
-                .get(0)
-                .getUri()
-                .toString() + "/base/two";
-
-        String message = restTemplate.getForObject(uri1Client, String.class) + " " +
-                restTemplate.getForObject(uri2Client, String.class);
-
-        return message;
+    public String hello() throws Exception {
+        return this.appOne()
+                + " " +
+                this.appTwo();
     }
 
-    public String fallbackClient(Throwable t) {
-        LOG.info("ARNAB: Fallback CLIENT!!");
-        return "Fallback CLIENT!!";
+    @CircuitBreaker(name = "cbClientAppOne", fallbackMethod = "fallbackClientAppOne")
+    private String appOne() {
+        return restTemplate.getForObject("http://127.0.0.1:8081/base/one", String.class);
+    }
+
+    @CircuitBreaker(name = "cbClientAppTwo", fallbackMethod = "fallbackClientAppTwo")
+    private String appTwo() {
+        return restTemplate.getForObject("http://127.0.0.1:8082/base/two", String.class);
+    }
+
+    public String fallbackClientAppOne(Throwable t) {
+        LOG.info("ARNAB: Fallback CLIENT App One!!!");
+        return "Fallback CLIENT App One!!!";
+    }
+
+    public String fallbackClientAppTwo(Throwable t) {
+        LOG.info("ARNAB: Fallback CLIENT App Two!!!");
+        return "Fallback CLIENT App Two!!!";
     }
 }
 
@@ -54,4 +66,21 @@ class MyConfiguration {
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }
+
+    /*@Bean
+    public CircuitBreakerRegistry circuitBreakerConfig() {
+        CircuitBreakerConfig circuitBreakerConfig = CircuitBreakerConfig.custom()
+                .failureRateThreshold(5)
+                .minimumNumberOfCalls(5)
+                .slidingWindowSize(5)
+                .slidingWindowType(CircuitBreakerConfig.SlidingWindowType.COUNT_BASED)
+                .recordException(e ->
+                        HttpStatus.INTERNAL_SERVER_ERROR.equals(e.getMessage()))
+                .build();
+
+        return CircuitBreakerRegistry.of(circuitBreakerConfig);
+
+        //CircuitBreaker circuitBreaker = circuitBreakerRegistry.circuitBreaker("cb-client-app-one");
+    }*/
+
 }
