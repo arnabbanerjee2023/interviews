@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: redis-demo
+  data:
+    mongodb:
+      uri: mongodb+srv://abanerjee23:<PASSWORD>@mongodev.vlw57.mongodb.net/?retryWrites=true&w=majority
+      database: mongodev
+      auto-index-creation: true
+  redis:
+    host: 127.0.0.1
+    port: 6379
